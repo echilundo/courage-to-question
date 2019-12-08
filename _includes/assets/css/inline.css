@@ -28,10 +28,6 @@ main {
 	max-width: 37.5em;
 }
 
-summary {
-	color: #a7a9b8;
-}
-
 p,
 pre,
 code {
@@ -118,6 +114,7 @@ article {
 	padding-bottom: 1em;
 	border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--white);
+	color: #a7a9b8;
 }
 
 main > section > article > * {
