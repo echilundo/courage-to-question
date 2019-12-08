@@ -35,9 +35,6 @@ code {
 }
 
 a[href],
-a[href]:hover {
-	color: var(--white),
-}
 a[href]:visited {
 	color: var(--red);
 }
