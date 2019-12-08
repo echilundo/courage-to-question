@@ -28,6 +28,10 @@ main {
 	max-width: 37.5em;
 }
 
+summary {
+	color: #a7a9b8;
+}
+
 p,
 pre,
 code {
