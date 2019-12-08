@@ -1,6 +1,6 @@
 ---
 title: An Important Message
-date: 2019-12-07T15:00:00.000Z
+date: 2019-12-08T00:01:00.000Z
 summary: Written and shared in June 2019. Original version published here.
 tags:
   - introspection
