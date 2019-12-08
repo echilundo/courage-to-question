@@ -6,6 +6,6 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome!
+Hey there, this place houses my thoughts and musings. It is meant to be no-frills for the most part, and will be in a constant state of evolution.
 
-Hey there, this places houses my thoughts and musings.
+Looking for my work, photography and videography? Click [here](https://iamedson.com).
