@@ -18,15 +18,13 @@ We even had a webcam! But more importantly, it came with a few games. One of whi
 
 ![smac_cover](/static/img/smac-cover.jpg)
 
-Designed by the aforementioned Sid Meier, Brian Reynolds and Michael Ely, it is an offshoot of the Civilization series with a heavy science-fiction twist. Part of what makes the game work is that the narrative and the gameplay work in tandem. They support and elevate one another. I don't think I've ever seen another strategy game come close to it. The philosophical, societal and economic commentary has never been replicated elsewhere.
+Designed and written by Brian Reynolds with the support of Michael Ely, it is an offshoot of the Civilization series with a heavy science-fiction twist. Part of what makes the game work is that the narrative and the gameplay work in tandem. They support and elevate one another. I don't think I've ever seen another strategy game come close to it. The philosophical, societal and economic commentary has never been replicated elsewhere.
 
 For example, read these two quotes:
 
 > _"As the Americans learned so painfully in Earth's final century, free flow of information is the only safeguard against tyranny. The once-chained people whose leaders at last lose their grip on information flow will soon burst with freedom and vitality, but the free nation gradually constricting its grip on public discourse has begun its rapid slide into despotism. Beware of he who would deny you access to information, for in his heart he dreams himself your master."_
 
 \- Commissioner Pravin Lal, "U.N. Declaration of Rights"
-
-
 
 > _"As distances vanish and the people can flow freely from place to place, society will cross a psychological specific heat boundary and enter a new state. No longer a solid or liquid, we have become as a vapor and will expand to fill all available space. And like a gas, we shall not be easily contained."_
 
