@@ -25,6 +25,16 @@ I also had a blast with the photo mode, and you can see the results of that [her
 
 Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest of ever playing the game, I still recommend it.
 
+**Disappointed**
+
+Made by the people behind the juggernaut that is the Grand Theft Auto series, this game really tested my sangfroid. Don't get me wrong, it is a fantastically realized world made with a LOT of care.
+
+But I keep fighting the in-game systems and the controller to do what I want. Perhaps there is something about it emulating how difficult life was for those in the Wild West. I don't know. I played the first Witcher game when it was released, and I don't remember being this frustrated.
+
+I have played this for 25-30 hours.
+
+I have yet to finish it. But to enjoy some of the photos and videos I've taken [here](https://iamedson.com/red-dead).
+
 **Best of the Rest**
 
 * Horizon: Zero Dawn ([photoset](https://iamedson.com/horizon))
