@@ -13,7 +13,9 @@ For a substantial part of this year, I found myself unemployed and there with a 
 
 ## **I Was Impressed By**
 
-![gow_snowy_mountain](/static/img/god-of-war-ps4-.png "God of War")
+<p align="center">
+  <img src="/static/img/god-of-war-ps4-.png">
+</p>
 
  In the past, Kratos and the God of War franchise represented teenage power fantasies (with some angst). Though, it did so with excellent mechanics that have influenced countless other games. In the years between the two major releases, the video game industry matured some more and culture became incrementally more politically correct. Did Kratos still have room in the modern world?
 
@@ -25,7 +27,9 @@ I also had a blast with the photo mode, and you can see the results of that [her
 
 Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest of ever playing the game, I still recommend it.
 
-![hitman_sapienza](/static/img/hitman-2016-alt-2.png "Hitman")
+<p align="center">
+  <img src="/static/img/hitman-2016-alt-2.png">
+</p>
 
 Another game that was reimagined for modern tastes and sensibilities. The folks at Noclip covered this in excellent [documentary series](https://www.ioi.dk/hitman-noclip/). I am noticing a theme here.
 
@@ -49,11 +53,13 @@ But it’s all so satisfying when it comes together at the end. I can only assum
 
 <h2 style="text-align: center;"> I Was Disappointed By</h2>
 
-![mea_planet](/static/img/mass-effect-andromeda.png "Mass Effect: Andromeda")
+<p align="center">
+  <img src="/static/img/mass-effect-andromeda.png">
+</p>
 
-Mass Effect Andromeda
-
-![rdr2_wildwest](/static/img/red-dead-redemption-2.png "Red Dead Redemption 2")
+<p align="center">
+  <img src="/static/img/red-dead-redemption-2.png">
+</p>
 
 Made by the people behind the juggernaut that is the Grand Theft Auto series, this game really tested my sangfroid. Don't get me wrong, it is a fantastically realized world made with a LOT of care. It is honestly the best cowboy simulator ever made.
 
