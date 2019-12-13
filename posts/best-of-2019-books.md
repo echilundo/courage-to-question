@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Denouement of 2019: Intro'
 date: 2019-12-12T16:45:00.259Z
 summary: The start of a yearly tradition.
