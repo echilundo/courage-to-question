@@ -13,4 +13,14 @@ For a substantial part of this year, I found myself unemployed and there with a 
 
 **Impressed**
 
-****
+![gow_snowy_mountain](/static/img/god-of-war-ps4-.png "God of War")
+
+ In the past, Kratos and the God of War franchise represented teenage power fantasies (with some angst). Though, it did so with excellent mechanics that have influenced countless other games. In the years between the two major releases, the video game industry matured some more and culture became incrementally more politically correct. Did Kratos still have room in the modern world?
+
+That, dear readers, is a resounding yes. God of War (2018) became an instant classic when it came out in April 2018. Having played the previous entries, and followed the marketing campaign for this latest iteration: I was very excited.
+
+It took me a little over a year to finally delve in, and boy -- this is a purchase I will never regret. Without any spoilers, God of War is a game about family, redemption and sacrifice. Backed by Bear McCreary and a stellar orchestra / choir, this adventure takes you through an interesting interpretation of Norse mythology and the relationship between a father and his son. The story is not perfect, but it resonated with me in a way that few other games have. Those stupid Valkyries though…
+
+I also had a blast with the photo mode, and you can see the results of that [here](https://iamedson.com/god-of-war). 
+
+Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest of ever playing the game, I still recommend it.
