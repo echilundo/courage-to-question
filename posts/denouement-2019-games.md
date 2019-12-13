@@ -69,7 +69,7 @@ BUT, the universe that BioWare had created was quite something and was often ref
 
 I got it in the bargain bin about a year and a half after its release in Mach 2017. Not even my crush on virtual Cora could distract me from the long cortège I decided to embark on. This is what wasted potential looks like in video game form.
 
-Investigative journalist, Jason Schreier, provided us with an account of the trouble development of the game [here](https://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428).
+Investigative journalist, Jason Schreier, provided us with an account of the troubled development of the game [here](https://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428).
 
 <p align="center">--</p>
 
@@ -83,7 +83,7 @@ But I keep fighting the in-game systems and the controller to do what I want. Pe
 
 I have played this for 25-30 hours. I have yet to finish it.
 
-But to enjoy some of the photos and videos I've taken [here](https://iamedson.com/red-dead). And read blogger extraordinaire Film Crit Hulk's thoughts on the game [here](https://www.polygon.com/2019/4/22/18298277/red-dead-redemption-2-pc-review-rdr2-story-design-criticism).
+But do feast your eyes on photos and videos I've taken [here](https://iamedson.com/red-dead). Plus, I recommend Film Crit Hulk's thoughts on the game [here](https://www.polygon.com/2019/4/22/18298277/red-dead-redemption-2-pc-review-rdr2-story-design-criticism).
 
 <p align="center">--</p>
 
