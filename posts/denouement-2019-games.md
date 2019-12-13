@@ -27,7 +27,13 @@ Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) docum
 
 ![hitman_sapienza](/static/img/hitman-2016-alt-2.png "Hitman")
 
-How do you take a character who has barcode tattoo on the back of his head seriously? You don’t. What you do - do though is engage in a terrific sandbox that takes place all over the world: just to assassinate someone. Mission too easy for you? Do all of it in a Santa Claus outfit? How about sneaking into the top floor of a heavily guarded mansion to get rid of a corrupt agent with a samurai sword? It’s ridiculous and I love it. My go-to game for some downtime.
+Another game that was reimagined for modern tastes and sensibilities. The folks at Noclip covered this in excellent [documentary series](https://www.ioi.dk/hitman-noclip/). I am noticing a theme here.
+
+Anyways, how do you take a character who has barcode tattoo on the back of his head seriously? You don’t.
+
+What you do - do though is engage in a terrific sandbox that takes place all over the world: just to assassinate someone. Mission too easy for you? Try one of the Escalations: which are essentially remixed versions of the original levels. They force to learn the intricacies of the level, and change your approach instead of defaulting to tried-and-true methods.
+
+Try getting rid of the target in a Santa Claus outfit. Or sneaking into the top floor of a heavily guarded mansion to get rid of a corrupt agent with a samurai sword. Or how about picking one escalation where you can't put away your pistol for more than 7 seconds or you lose. It’s ridiculous and I love it. My go-to game for some downtime.
 
 Overcooked
 
