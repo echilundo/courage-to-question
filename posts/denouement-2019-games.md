@@ -24,3 +24,8 @@ It took me a little over a year to finally delve in, and boy -- this is a purcha
 I also had a blast with the photo mode, and you can see the results of that [here](https://iamedson.com/god-of-war). 
 
 Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest of ever playing the game, I still recommend it.
+
+**Best of the Rest**
+
+* Horizon: Zero Dawn ([photoset](https://iamedson.com/horizon))
+* Uncharted: The Nation Drake Collection ([photoset](https://iamedson.com/uncharted))
