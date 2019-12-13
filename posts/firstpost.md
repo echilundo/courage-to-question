@@ -1,7 +1,9 @@
 ---
 title: 'What is courage:to question?'
 date: 2019-12-08T00:00:00.000Z
-summary: 'Reading time: 2 minutes, 15 seconds.'
+summary: |
+  And where did the name come from? |
+  Reading time: 2 minutes, 15 seconds.
 tags:
   - miscellaneous
 ---
