@@ -27,6 +27,8 @@ I also had a blast with the photo mode, and you can see the results of that [her
 
 Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest of ever playing the game, I still recommend it.
 
+<p align="center">--</p>
+
 <p align="center">
   <img src="/static/img/hitman-2016-alt-2.png">
 </p>
@@ -39,7 +41,9 @@ What you do - do though is engage in a terrific sandbox that takes place all ove
 
 Try getting rid of the target in a Santa Claus outfit. Or sneaking into the top floor of a heavily guarded mansion to get rid of a corrupt agent with a samurai sword. Or how about picking one escalation where you can't put away your pistol for more than 7 seconds or you lose. It’s ridiculous and I love it. My go-to game for some downtime.
 
-Overcooked
+It also gave me a magical idea for a honeymoon. Should I ever get married.
+
+<p align="center">--</p>
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/UovJw8VQReFiiIy8C9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/team17-overcooked-2-overcooked2-UovJw8VQReFiiIy8C9">via GIPHY</a></p>
 
@@ -51,19 +55,23 @@ This came out of my mouth after my brothers' terrible kitchen coordination led t
 
 But it’s all so satisfying when it comes together at the end. I can only assume that playing this with a significant other make put a (temporary) strain on the relationship.
 
+<p align="center">--</p>
+
 <h2 style="text-align: center;"> I Was Disappointed By</h2>
 
 <p align="center">
   <img src="/static/img/mass-effect-andromeda.png">
 </p>
 
-Anyone who has known for a good period of time knows that I LOVE Mass Effect. I bought the original on Xbox 360 and PC. I bought Dragon Age: Origins just because it had the armor for the sequel (honestly: the world of Thedas was an afterthought for me). Bought the limited edition of Mass Effect 2. And my then-girlfriend bought the limited edition of Mass Effect 3 for my birthday. I still feel slightly guilty because that game's ending was terrible. Don't believe me? Google ME3 ending reactions.
+Anyone who has known for a good period of time knows that I LOVE Mass Effect. I bought the original on Xbox 360 and PC. I bought Dragon Age: Origins just because it had the armor for the sequel (honestly, the world of Thedas was an afterthought for me). Bought the limited edition of Mass Effect 2. And my then-girlfriend bought the limited edition of Mass Effect 3 for my birthday. I still feel slightly guilty about that because that game's ending was terrible. Don't believe me? Google "ME3 ending reaction".
 
 BUT, the universe that BioWare had created was quite something and was often referred to as this generation's Star Trek. So when a new game was announced in 2014, it's an understatement to say I was excited.
 
-I got it in the bargain bin about a year and a half after its release in Mach 2017. Not even my crush on virtual Cora could distract me from the long cortège I decided to embark on. This what wasted potential looks like in video game form.
+I got it in the bargain bin about a year and a half after its release in Mach 2017. Not even my crush on virtual Cora could distract me from the long cortège I decided to embark on. This is what wasted potential looks like in video game form.
 
-Jason Schreier did a terrific post-mortem of the game [here](https://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428).
+Investigative journalist, Jason Schreier, provided us with an account of the trouble development of the game [here](https://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428).
+
+<p align="center">--</p>
 
 <p align="center">
   <img src="/static/img/red-dead-redemption-2.png">
@@ -77,9 +85,13 @@ I have played this for 25-30 hours. I have yet to finish it.
 
 But to enjoy some of the photos and videos I've taken [here](https://iamedson.com/red-dead). And read blogger extraordinaire Film Crit Hulk's thoughts on the game [here](https://www.polygon.com/2019/4/22/18298277/red-dead-redemption-2-pc-review-rdr2-story-design-criticism).
 
-Spider-Man
+<p align="center">--</p>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l46CkFQJ9GRlWataM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/agentm-ps4-spider-man-spiderman-l46CkFQJ9GRlWataM">via GIPHY</a></p>
 
 I won't spend too much time on this. The game is masterful at making you feel like Spidey from beginning to end with controls that are intuitive. Shame about the story though (with the major of exception of Peter and MJ's relationship: that was damn good).
+
+I took some [photos](https://iamedson.com/spidey) too.
 
 **Best of the Rest**
 
