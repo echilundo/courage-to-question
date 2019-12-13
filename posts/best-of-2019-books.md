@@ -16,7 +16,7 @@ The rules for consideration are simple: these are based on experiencing them thi
 
 This is the main post and will be updated as soon as the other entries are published. It should go up right up until the end of the year in the following order:
 
-* Games
+* [Games](https://blog.iamedson.com/posts/denouement-2019:-games/)
 * Books
 * TV Shows
 * Movies
