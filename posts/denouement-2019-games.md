@@ -37,7 +37,15 @@ Try getting rid of the target in a Santa Claus outfit. Or sneaking into the top 
 
 Overcooked
 
-On my to-play list since release, I finally dipped in courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. But it’s all so satisfying when it comes together at the end. I can only assume that playing this with a significant other make put a (temporary) strain not her relationship.
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/UovJw8VQReFiiIy8C9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/team17-overcooked-2-overcooked2-UovJw8VQReFiiIy8C9">via GIPHY</a></p>
+
+Overcooked has been on _to-play_ list since release. I didn't get a chance to at the time since I had an impending move to Kyoto, and well, priorities. This year, I finally got my chance courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. It also paved the way for the much cited, internal joke:
+
+> _You guys are not serious about life._
+>
+>  - Ed to his brothers after failing the level for the upteenth time.
+
+But it’s all so satisfying when it comes together at the end. I can only assume that playing this with a significant other make put a (temporary) strain not her relationship.
 
 **Disappointed**
 
@@ -62,11 +70,5 @@ I won't spend too much time on this. The game is masterful at making you feel li
 **Best of the Rest**
 
 * Dying Light - played in a LAN over the course of a weekend. Good fun.
-
-
-
 * Horizon: Zero Dawn ([photoset](https://iamedson.com/horizon)) - well-realized world that was missing that extra oomph. I am optimistic for the inevitable sequel.
-
-
-
 * Uncharted: The Nation Drake Collection ([photoset](https://iamedson.com/uncharted)) - Overrated? Yes. Fun? Also yes.
