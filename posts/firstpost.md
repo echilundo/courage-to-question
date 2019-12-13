@@ -18,7 +18,9 @@ Anyways, soon after moving to Adelaide, my parents purchased a spanking new PC. 
 
 We even had a webcam! But more importantly, it came with a few games. One of which became the most important piece of media in my life. I am talking about the magnum opus that is Sid Meier's Alpha Centauri.
 
-![smac_cover ><](/static/img/smac-cover.jpg)
+<p align="center">
+  <img src="/static/img/smac-cover.jpg">
+</p>
 
 Designed and written by Brian Reynolds with the support of Michael Ely, it is an offshoot of the Civilization series with a heavy science-fiction twist. Part of what makes the game work is that the narrative and the gameplay work in tandem. They support and elevate one another. I don't think I've ever seen another strategy game come close to it. The philosophical, societal and economic commentary has never been replicated elsewhere.
 
