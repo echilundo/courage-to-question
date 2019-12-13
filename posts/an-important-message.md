@@ -1,7 +1,9 @@
 ---
 title: An Important Message
 date: 2019-12-08T00:01:00.000Z
-summary: Originally written and shared in June 2019. Original version republished here.
+summary: >-
+  Originally written and shared in June 2019. Original version republished here.
+  Reading time: 6 minutes, 30 seconds.
 tags:
   - introspection
 ---
