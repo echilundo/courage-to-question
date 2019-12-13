@@ -5,6 +5,8 @@ summary: And where did the name come from?
 tags:
   - miscellaneous
 ---
+\--
+
 Prior to moving to Australia in 2000, I had never played a strategy game before. I was raised on a diet of Nintendo games \[SNES & N64], a lonely SEGA Game Gear and some edutainment games. I also had [Riven](https://en.wikipedia.org/wiki/Riven), which to this day...I have never finished.
 
 Anyways, soon after moving to Adelaide, my parents purchased a spanking new PC. Feast on this baby:
