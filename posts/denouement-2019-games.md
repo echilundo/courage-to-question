@@ -11,7 +11,7 @@ tags:
 
 For a substantial part of this year, I found myself unemployed and there with a lot of free time on my hands. A part of that was spent on learning design, coding and job-hunting...and the other on attempting to catch up on an ever-growing backlog of games on both Steam and PSN.
 
-**Impressed**
+## **I Was Impressed By**
 
 ![gow_snowy_mountain](/static/img/god-of-war-ps4-.png "God of War")
 
@@ -41,13 +41,16 @@ Overcooked
 
 Overcooked has been on _to-play_ list since release. I didn't get a chance to at the time since I had an impending move to Kyoto, and well, priorities. This year, I finally got my chance courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. It also paved the way for the much cited, internal joke:
 
-> _You guys are not serious about life._
->
->  - Ed to his brothers after failing the level for the upteenth time.
+<strong style="color: gold; opacity: 0.80;">You guys are not serious about life.</strong>
+
+<p style="text-align: center;">Centered text</p>
+
+ - Ed to his brothers after failing the level for the upteenth time.
+
 
 But it’s all so satisfying when it comes together at the end. I can only assume that playing this with a significant other make put a (temporary) strain not her relationship.
 
-**Disappointed**
+## **I Was Disappointed By**
 
 ![mea_planet](/static/img/mass-effect-andromeda.png "Mass Effect: Andromeda")
 
