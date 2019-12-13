@@ -49,5 +49,12 @@ I won't spend too much time on this. The game is masterful at making you feel li
 
 **Best of the Rest**
 
-* Horizon: Zero Dawn ([photoset](https://iamedson.com/horizon))
-* Uncharted: The Nation Drake Collection ([photoset](https://iamedson.com/uncharted))
+* Dying Light - played in a LAN over the course of a weekend. Good fun.
+
+
+
+* Horizon: Zero Dawn ([photoset](https://iamedson.com/horizon)) - well-realized world that was missing that extra oomph. I am optimistic for the inevitable sequel.
+
+
+
+* Uncharted: The Nation Drake Collection ([photoset](https://iamedson.com/uncharted)) - Overrated? Yes Fun? Also yes.
