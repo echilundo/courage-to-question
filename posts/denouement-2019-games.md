@@ -2,7 +2,9 @@
 draft: false
 title: 'Denouement 2019: Games'
 date: 2019-12-13T09:04:21.573Z
-summary: The games that impressed and disappointed me in 2019.
+summary: >-
+  The games that impressed and disappointed me in 2019. | Reading time: 5
+  minutes, 23 seconds.
 tags:
   - denouement
   - video games
