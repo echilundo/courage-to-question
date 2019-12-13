@@ -27,6 +27,8 @@ Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) docum
 
 Hitman
 
+
+
 How do you take a character who has barcode tattoo on the back of his head seriously? You don’t. What you do - do though is engage in a terrific sandbox that takes place all over the world: just to assassinate someone. Mission too easy for you? Do all of it in a Santa Claus outfit? How about sneaking into the top floor of a heavily guarded mansion to get rid of a corrupt agent with a samurai sword? It’s ridiculous and I love it. My go-to game for some downtime.
 
 Overcooked
@@ -34,6 +36,12 @@ Overcooked
 On my to-play list since release, I finally dipped in courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. But it’s all so satisfying when it comes together at the end. I can only assume that playing this with a significant other make put a (temporary) strain not her relationship.
 
 **Disappointed**
+
+![mea_planet](/static/img/mass-effect-andromeda.png "Mass Effect: Andromeda")
+
+Mass Effect Andromeda
+
+![rdr2_wildwest](/static/img/red-dead-redemption-2.png "Red Dead Redemption 2")
 
 Made by the people behind the juggernaut that is the Grand Theft Auto series, this game really tested my sangfroid. Don't get me wrong, it is a fantastically realized world made with a LOT of care. It is honestly the best cowboy simulator ever made.
 
@@ -57,4 +65,4 @@ I won't spend too much time on this. The game is masterful at making you feel li
 
 
 
-* Uncharted: The Nation Drake Collection ([photoset](https://iamedson.com/uncharted)) - Overrated? Yes Fun? Also yes.
+* Uncharted: The Nation Drake Collection ([photoset](https://iamedson.com/uncharted)) - Overrated? Yes. Fun? Also yes.
