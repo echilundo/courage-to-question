@@ -9,19 +9,15 @@ tags:
 Hey there, this place houses my thoughts and musings. It is meant to be no-frills for the most part, and will be in a constant state of evolution.
 
 Looking for my work, photography and videography? Click [here](https://iamedson.com).
+
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="https://iamedson.us3.list-manage.com/subscribe/post?u=e635a988cad42d2c4ba89427a&amp;id=a90c713ca8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to New Content</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div><br>
+	<h2>Subscribe for Updates</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-NAME">Name  <span class="asterisk">*</span>
-</label>
-	<input type="text" value="" name="NAME" class="required" id="mce-NAME">
-</div>
-<br><div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<br><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
