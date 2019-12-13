@@ -1,10 +1,12 @@
 ---
 title: An Important Message
 date: 2019-12-08T00:01:00.000Z
-summary: Written and shared in June 2019. Original version published here.
+summary: Originally written and shared in June 2019. Original version republished here.
 tags:
   - introspection
 ---
+\--
+
 A few weeks ago, I attempted suicide. And failed. The irony is that… the attempt happened because I felt like a failure.
 
 Before I go on with anything else, I need to talk about suicide. In those moments leading up to the (potential) act, I had blinders on with everything else. Things had gone so bad that leaving this world was the only thought that made me feel better. Once I was in that ‘mode’, it took those blinders and a ton of courage to even make that choice: knowing full well the effect it would have on all of you.
