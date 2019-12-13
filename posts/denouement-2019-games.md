@@ -41,16 +41,13 @@ Overcooked
 
 Overcooked has been on _to-play_ list since release. I didn't get a chance to at the time since I had an impending move to Kyoto, and well, priorities. This year, I finally got my chance courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. It also paved the way for the much cited, internal joke:
 
-<strong style="color: gold; opacity: 0.80;">You guys are not serious about life.</strong>
+<p style="text-align: center; color: gold">You guys are not serious about life.</p>
 
-<p style="text-align: center;">Centered text</p>
+This came out of my mouth after my brothers' terrible kitchen coordination led to us failing the level for the upteenth time.
 
- - Ed to his brothers after failing the level for the upteenth time.
+But it’s all so satisfying when it comes together at the end. I can only assume that playing this with a significant other make put a (temporary) strain on the relationship.
 
-
-But it’s all so satisfying when it comes together at the end. I can only assume that playing this with a significant other make put a (temporary) strain not her relationship.
-
-## **I Was Disappointed By**
+<h2 style="text-align: center;"> I Was Disappointed By</h2>
 
 ![mea_planet](/static/img/mass-effect-andromeda.png "Mass Effect: Andromeda")
 
