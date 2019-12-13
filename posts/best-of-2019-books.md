@@ -2,7 +2,7 @@
 draft: false
 title: 'Denouement 2019: Intro'
 date: 2019-12-12T16:45:00.259Z
-summary: The start of a yearly tradition.
+summary: 'The start of a yearly tradition. | Reading time: 39 seconds.'
 tags:
   - denouement
 ---
