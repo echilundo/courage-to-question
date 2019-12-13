@@ -25,7 +25,7 @@ I also had a blast with the photo mode, and you can see the results of that [her
 
 Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest of ever playing the game, I still recommend it.
 
-![](/static/img/hitman-2016-alt-2.png)
+![hitman_sapienza](/static/img/hitman-2016-alt-2.png "Hitman")
 
 How do you take a character who has barcode tattoo on the back of his head seriously? You don’t. What you do - do though is engage in a terrific sandbox that takes place all over the world: just to assassinate someone. Mission too easy for you? Do all of it in a Santa Claus outfit? How about sneaking into the top floor of a heavily guarded mansion to get rid of a corrupt agent with a samurai sword? It’s ridiculous and I love it. My go-to game for some downtime.
 
