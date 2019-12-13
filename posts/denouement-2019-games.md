@@ -11,13 +11,13 @@ tags:
 
 For a substantial part of this year, I found myself unemployed and there with a lot of free time on my hands. A part of that was spent on learning design, coding and job-hunting...and the other on attempting to catch up on an ever-growing backlog of games on both Steam and PSN.
 
-## **I Was Impressed By**
+<h2 style="text-align: center;"> I Was Impressed By</h2>
 
 <p align="center">
   <img src="/static/img/god-of-war-ps4-.png">
 </p>
 
- In the past, Kratos and the God of War franchise represented teenage power fantasies (with some angst). Though, it did so with excellent mechanics that have influenced countless other games. In the years between the two major releases, the video game industry matured some more and culture became incrementally more politically correct. Did Kratos still have room in the modern world?
+In the past, Kratos and the God of War franchise represented teenage power fantasies (with some angst). Though, it did so with excellent mechanics that have influenced countless other games. In the years between the two major releases, the video game industry matured some more and culture became incrementally more politically correct. Did Kratos still have room in the modern world?
 
 That, dear readers, is a resounding yes. God of War (2018) became an instant classic when it came out in April 2018. Having played the previous entries, and followed the marketing campaign for this latest iteration: I was very excited.
 
@@ -56,6 +56,14 @@ But it’s all so satisfying when it comes together at the end. I can only assum
 <p align="center">
   <img src="/static/img/mass-effect-andromeda.png">
 </p>
+
+Anyone who has known for a good period of time knows that I LOVE Mass Effect. I bought the original on Xbox 360 and PC. I bought Dragon Age: Origins just because it had the armor for the sequel (honestly: the world of Thedas was an afterthought for me). Bought the limited edition of Mass Effect 2. And my then-girlfriend bought the limited edition of Mass Effect 3 for my birthday. I still feel slightly guilty because that game's ending was terrible. Don't believe me? Google ME3 ending reactions.
+
+BUT, the universe that BioWare had created was quite something and was often referred to as this generation's Star Trek. So when a new game was announced in 2014, it's an understatement to say I was excited.
+
+I got it in the bargain bin about a year and a half after its release in Mach 2017. Not even my crush on virtual Cora could distract me from the long cortège I decided to embark on. This what wasted potential looks like in video game form.
+
+Jason Schreier did a terrific post-mortem of the game [here](https://kotaku.com/the-story-behind-mass-effect-andromedas-troubled-five-1795886428).
 
 <p align="center">
   <img src="/static/img/red-dead-redemption-2.png">
