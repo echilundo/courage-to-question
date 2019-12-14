@@ -4,7 +4,9 @@ title: 'Denouement 2019: Websites'
 date: 2019-12-14T13:40:14.410Z
 summary: 'The websites I can always count on for good content. | Reading time: '
 tags:
-  - post
+  - denouement
+  - reading
+  - websites
 ---
 \--
 
@@ -12,31 +14,41 @@ Every year, I read way more articles than I should. Some of it is useful informa
 
 This section is likely to be much shorter in future years as I’ve inserted sites I’ve read along the years rather than just ones I’ve discovered this year.
 
-\*Budget Bytes / Minimalist Baker\*
+<br>
+
+<h2 style="text-align: center;">Budget Bytes / Minimalist Baker</h2>
 
 Yeah, I know. I’ve already started off terribly by putting two entries together. I like cooking, and I like learning about cooking.
 
-The former site gives me cheap recipes that taste good, and the latter allows me to cater to increasing amount of vegetarian and vegan friends. What’s not to like?
+The [former site](https://www.budgetbytes.com) gives me cheap recipes that taste good, and the [latter](https://minimalistbaker.com) allows me to cater to an increasing amount of vegetarian and vegan friends. What’s not to like?
 
 <p align="center">--</p>
+
+<h2 style="text-align: center;">Digital Foundry</h2>
 
 Digital Foundry is a sub-section of the perhaps the best general video game website on the planet, Eurogamer. DF provides technical analysis of games and gaming hardware. If you’re that geeky, or want to learn more about the technology that powers your favorite interactive experiences, there’s no place better.
 
-Start with their analysis of positively reviewed but polarizing game, Hideo Kojima’s \[Death Stranding](https://www.eurogamer.net/articles/digitalfoundry-2019-death-stranding-ps4-pro-tech-review).
+Start with their analysis of positively reviewed but polarizing game, Hideo Kojima’s [Death Stranding](https://www.eurogamer.net/articles/digitalfoundry-2019-death-stranding-ps4-pro-tech-review).
 
 <p align="center">--</p>
 
-\*Passion of the Weiss\*
+<h2 style="text-align: center;">Passion of the Weiss</h2>
 
 PotW is the best music blog I have ever come across. The authors come from every walk of life and don’t shy away from having it influence their writing, and how the music has influenced their lives.
 
-While hip-hop heavy, they have published intricate articles and interviews with rock and electronic musicians too. Start with the comprehensive [Rapper of the Decade](https://www.passionweiss.com/tag/rappers-of-the-decade/) series.
+While hip-hop heavy, they have published intricate articles and interviews with rock and electronic musicians too.
+
+Start with the comprehensive [Rapper of the Decade](https://www.passionweiss.com/tag/rappers-of-the-decade/) series.
 
 <p align="center">--</p>
 
 <h2 style="text-align: center;">Stratechery</h2>
 
-Like a bit of industry analysis? Ben Thompson's has you covered with weekly analysis of the strategies deployed by tech companies both big and small. I haven’t yet subscribed to his paid content. But his free content is definitely worth a read. Start with the [2018 Year in Review](https://stratechery.com/2018/the-2018-stratechery-year-in-review/).
+Like a bit of industry analysis? Ben Thompson's has you covered with weekly analysis of the strategies deployed by tech companies both big and small. I haven’t yet subscribed to his paid content. But his free content is definitely worth a read.
+
+
+
+Start with the [2018 Year in Review](https://stratechery.com/2018/the-2018-stratechery-year-in-review/).
 
 <p align="center">--</p>
 
@@ -66,7 +78,7 @@ His content has ranged from half-year long retrospectives on games, to a [compel
 
 <p align="center">--</p>
 
-\*Van Schneider\*
+<h2 style="text-align: center;">Van Schneider</h2>
 
 Tobias Van Schneider is a German-born designer who plies his trade in New York and one his claims to fame is his work as lead product designer & art director at Spotify. He runs a blog that covers design, user experience and everything related. 
 
@@ -76,12 +88,10 @@ I think this type of content is extremely important as design has a tendency to 
 
 <p align="center">--</p>
 
-\*Wait But Why\*.
-
-![]()
+<h2 style="text-align: center;">Wait But Why</h2>
 
 WBW is one of my top 3 favorite websites. Full of long-form content that makes my brain hurt and has me re-reading just to make sure I understand the implications on society and my personal being. Then I dip into mostly level-headed comment section and my convictions and beliefs tested.
 
-Right now, the wonder team is working on a biblical series called “\[The Story of Us](https://waitbutwhy.com/2019/08/story-of-us.html)” which is an attempt on provide a detailed analysis of society at a macro and micro level. On second thought, start on \[Tim’s experiences](https://waitbutwhy.com/2014/09/odd-things-odd-places-7-travel-posts.html) traveling to 5 countries chosen by the site’s readers (spoiler: Russia, Japan, Nigeria, Iraq, and Greenland).
+Right now, the wonder team is working on a frankly, biblical series called [The Story of Us](https://waitbutwhy.com/2019/08/story-of-us.html) which is an attempt on provide a detailed analysis of society at a macro and micro level. On second thought, start on [Tim’s experiences](https://waitbutwhy.com/2014/09/odd-things-odd-places-7-travel-posts.html) traveling to 5 countries chosen by the site’s readers (spoiler: Russia, Japan, Nigeria, Iraq, and Greenland).
 
 Happy reading :)
