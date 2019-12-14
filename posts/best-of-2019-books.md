@@ -2,7 +2,7 @@
 draft: false
 title: 'Denouement 2019: Intro'
 date: 2019-12-12T16:45:00.259Z
-summary: 'The start of a yearly tradition. | Reading time: 40 seconds.'
+summary: 'The start of a yearly tradition. | Reading time: 43 seconds.'
 tags:
   - denouement
 ---
@@ -17,11 +17,13 @@ The rules for consideration are simple: these are based on experiencing them thi
 This is the main post and will be updated as soon as the other entries are published. It should go up right up until the end of the year in the following order:
 
 * [Games](https://blog.iamedson.com/posts/denouement-2019:-games/)
-* Websites
+* [Websites](https://blog.iamedson.com/posts/denouement-2019:-websites/)
 * Books
 * YouTube Channels
 * TV Shows
 * Movies
 * Music
+
+By the way, if the text is red: it's a link.
 
 These posts are likely to be lengthy and meant to be consumed with a good cup of tea or coffee.
