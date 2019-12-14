@@ -13,7 +13,7 @@ tags:
 
 For a substantial part of this year, I found myself unemployed and there with a lot of free time on my hands. A part of that was spent on learning design, coding and job-hunting...and the other on attempting to catch up on an ever-growing backlog of games on both Steam and PSN.
 
-<h2 style="text-align: center;"> I Was Impressed By</h2>
+<h2 style="text-align: center;">I Was Impressed By</h2>
 
 <p align="center">
   <img src="/static/img/god-of-war-ps4-.png">
@@ -59,7 +59,7 @@ But it’s all so satisfying when it comes together at the end. I can only assum
 
 <p align="center">--</p>
 
-<h2 style="text-align: center;"> I Was Disappointed By</h2>
+<h2 style="text-align: center;">I Was Disappointed By</h2>
 
 <p align="center">
   <img src="/static/img/mass-effect-andromeda.png">
