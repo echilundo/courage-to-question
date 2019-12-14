@@ -2,7 +2,7 @@
 draft: false
 title: 'Denouement 2019: Websites'
 date: 2019-12-14T13:40:14.410Z
-summary: 'The websites I can always count for good content. | Reading time: '
+summary: 'The websites I can always count on for good content. | Reading time: '
 tags:
   - post
 ---
@@ -38,41 +38,23 @@ While hip-hop heavy, they have published intricate articles and interviews with 
 
 \*Stratechery\*
 
-
-
 \[image:66882D3E-DF79-43ED-94E1-B749139B877F-40094-00012761C2584E1E/cropped-android-chrome-512x512-1.png]
-
-
 
 Like a bit of industry analysis? Ben Thompson has you covered with weekly analysis of the strategies deployed by tech companies both big and small. I haven’t yet subscribed to his paid content. But his free content is definitely worth a read. Start with the \[2018 Year in Review](https://stratechery.com/2018/the-2018-stratechery-year-in-review/)
 
 <p align="center">--</p>
 
-\*The Whitehouse Address\*
-
-
+<h2 style="text-align: center;">The Whitehouse Address</h2>
 
 TWA is a football fan’s wet dream. Deep-dive psychological and tactical analysis of the world’s most popular sport.  They also trace the evolution of football in recent years, as well as provide suggestions on how to approach youth development in the future.
-
-
 
 Start with a look into the societal challenges that young black footballer faces in the UK. The website uses a certain Raheem Sterling as a \[case study](http://whitehouseaddress.blogspot.com/2019/03/the-case-study-of-raheem-sterling.html). You might have heard of him.
 
 <p align="center">--</p>
 
-
-
-\*The Wirecutter\*
-
-
-
-\[image:9478A6FF-1D37-462F-B519-B8FF11F2CBD3-40094-0001275AB23B7DEB/Wirecutter.png]
-
-
+<h2 style="text-align: center;">The Wirecutter</h2>
 
 \[The Wirecutter](https://thewirecutter.com) is the first place I check when I want to purchase something. Their reviews cover everything from the best toilet seat to the best backup system. The team also shares their methodology for how the have chosen that product or service, and often provide more expensive or cheaper alternatives.
-
-
 
 I don’t follow their recommendations blindly, but they serve as good starting points to finding something that I will buy. Please remember that they often do not recommend the best POSSIBLE choice, but often it’s the best for the widest possible audience.
 
@@ -80,29 +62,17 @@ I don’t follow their recommendations blindly, but they serve as good starting 
 
 \*Twenty Sided Tale\*
 
-
-
 \[image:932317E2-85A8-4624-9709-631DED96E5E3-40094-00012754EDE1C007/twenty-sided-tale-cover.jpg]
-
-
 
 Shamus Young has been running his blog for as long as I’ve started reading content seriously on the internet. There’s no way I can do a short description that does him justice. His content has ranged from half-year long retrospectives on games, to a \[compelling autobiography](https://www.shamusyoung.com/twentysidedtale/?page_id=15033), to critical analysis of the video game industry, to the trials and tribulations of programming and music production today. The man does it all.
 
 <p align="center">--</p>
 
-
-
 \*Van Schneider\*
-
-
 
 Tobias Van Schneider is a German-born designer who plies his trade in New York and one his claims to fame is his work as lead product designer & art director at Spotify. He runs a blog that covers design, user experience and everything related. 
 
-
-
 His most interesting content is the \[Design Around the World](https://www.vanschneider.com/series/design-around-the-world) series, where he interviews an agency in a different country to get their perspective on design in general and shed some light the developments in that specific region.
-
-
 
 I think this type of content is extremely important as design has a tendency to become homogenized due to the influence Silicon Valley exerts on the rest of the world in terms user and customer experience. We need to have more local people tackle the unique design challenges with skills and competencies that are universal.
 
@@ -110,11 +80,7 @@ I think this type of content is extremely important as design has a tendency to 
 
 \*Wait But Why\*.
 
-
-
 WBW is one of my top 3 favorite websites. Full of long-form content that makes my brain hurt and has me re-reading just to make sure I understand the implications on society and my personal being. Then I dip into mostly level-headed comment section and my convictions and beliefs tested.
-
-
 
 Right now, the wonder team is working on a biblical series called “\[The Story of Us](https://waitbutwhy.com/2019/08/story-of-us.html)” which is an attempt on provide a detailed analysis of society at a macro and micro level. On second thought, start on \[Tim’s experiences](https://waitbutwhy.com/2014/09/odd-things-odd-places-7-travel-posts.html) traveling to 5 countries chosen by the site’s readers (spoiler: Russia, Japan, Nigeria, Iraq, and Greenland).
 
