@@ -18,6 +18,8 @@ This is the main post and will be updated as soon as the other entries are publi
 
 * [Games](https://blog.iamedson.com/posts/denouement-2019:-games/)
 * Books
+* Websites
+* YouTube Channels
 * TV Shows
 * Movies
 * Music
