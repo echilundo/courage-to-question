@@ -2,7 +2,9 @@
 draft: false
 title: 'Denouement 2019: Websites'
 date: 2019-12-14T13:40:14.410Z
-summary: 'The websites I can always count on for good content. | Reading time: '
+summary: >-
+  The websites I can always count on for good content. | Reading time: 3 minutes
+  57 seconds.
 tags:
   - denouement
   - reading
