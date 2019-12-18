@@ -34,10 +34,20 @@ I read in the hopes of becoming an expert generalist. A buzzword to be sure, but
 <h2 style="text-align: center;">I Was Impressed By</h2>
 
 <p align="center">
-  <img src="/static/img/god-of-war-ps4-.png">
+  <img src="/static/img/houseofx.jpg"
+
+ <figcaption>This is my caption text.</figcaption>
 </p>
 
-In the past, Kratos and the God of War franchise represented teenage power fantasies (with some angst). Though, it did so with excellent mechanics that have influenced countless other games. In the years between the two major releases, the video game industry matured some more and culture became incrementally more politically correct. Did Kratos still have room in the modern world?
+ 
+
+I have a love-hate relationship with Marvel Comics, but I think the X-Men are the most interesting set of characters they have. After a missteps recently, the company decided to relaunch the entire series under the stewardship of Jonathan Hickman.
+
+For three months, I feverishly waited for every Wednesday to get my hands on a copy of the next installment. It is something I had never done before in all the years I had read comics.
+
+In Dawn of X, mutants have a completely new status quo: their own language, culture, societal structure, government (laws), and export. Hickman has even added interesting elements of sci-fi and cosmic horror without it seeming hokey.
+
+It's not perfect and the X-Men world has always been a difficult to fit into the greater Marvel Universe, but this is a story well worth of your time.
 
 That, dear readers, is a resounding yes. God of War (2018) became an instant classic when it came out in April 2018. Having played the previous entries, and followed the marketing campaign for this latest iteration: I was very excited.
 
