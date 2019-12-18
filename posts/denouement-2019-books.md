@@ -21,9 +21,15 @@ You could argue that it's the way I learn best, but truthfully, there isn't any 
 
 As a quick aside, let me show you something from last year:
 
-![](/static/img/screen-shot-2019-12-18-at-20.32.03.png)
+<p align="center">
+  <img src="/static/img/pocket2018.png">
+</p>
 
-For a substantial part of this year, I found myself unemployed and there with a lot of free time on my hands. A part of that was spent on learning design, coding and job-hunting...and the other on attempting to catch up on an ever-growing backlog of games on both Steam and PSN.
+That's a lot of reading, and a regular occurrence since 2015. I expect this year to be no less different. The post will be updated when I get my statistics for this year.
+
+So..._Why_ do I read?
+
+I read in the hopes of becoming an expert generalist. A buzzword to be sure, but the simplest way to explain it. There isn't a singular path to it, and even this very website are part of the steps towards it. BUT...I have heavily digressed.
 
 <h2 style="text-align: center;">I Was Impressed By</h2>
 
