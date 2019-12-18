@@ -17,6 +17,8 @@ For a substantial part of this year, I found myself unemployed and there with a 
 
 <p align="center">
   <img src="/static/img/god-of-war-ps4-.png">
+
+
 </p>
 
 In the past, Kratos and the God of War franchise represented teenage power fantasies (with some angst). Though, it did so with excellent mechanics that have influenced countless other games. In the years between the two major releases, the video game industry matured some more and culture became incrementally more politically correct. Did Kratos still have room in the modern world?
@@ -49,7 +51,9 @@ It also gave me a magical idea for a honeymoon. Should I ever get married.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/UovJw8VQReFiiIy8C9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/team17-overcooked-2-overcooked2-UovJw8VQReFiiIy8C9">via GIPHY</a></p>
 
-Overcooked has been on _to-play_ list since release. I didn't get a chance to at the time since I had an impending move to Kyoto, and well, priorities. This year, I finally got my chance courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. It also paved the way for the much cited, internal joke:
+
+
+**Overcooked** has been on _to-play_ list since release. I didn't get a chance to at the time since I had an impending move to Kyoto, and well, priorities. This year, I finally got my chance courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. It also paved the way for the much cited, internal joke:
 
 <p style="text-align: center; color: gold">You guys are not serious about life.</p>
 
