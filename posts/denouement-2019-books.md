@@ -56,7 +56,13 @@ It's not perfect and the X-Men world has always been a difficult to fit into the
 This book was a recommendation by a good friend of mine, though I was wary of approaching it from my own experiences in Kyoto where I:
 
 * Experienced culture, academics and business in an almost equal measure;
+
+
+
 * I dated a half Japanese-half Ethiopian person for a while;
+
+
+
 * Did all this from mostly Anglo-American worldview mixed in with elements of _lusophonia_ and Mozambique.
 
 That out of the way, Dogs and Demons is a fascinating, but by no means perfect read. While dated in parts by now, many of the underlying aspects that are talked about are still relevant today (even if it is written by a non-Japanese national). A number of the thoughts laid out here have begun to be echoed by Japanese nationals. Though mostly those who find themselves outside the usual system, whether it's voluntary or not. In the case of my…ex-girlfriend she’s very Japanese in her behavior (IMO) but there is enough difference in it and enough melanin in her skin that she often found herself as the one on the outside looking in. Which made it extremely interesting to learn about Japan from someone with one foot in and another out.
@@ -91,7 +97,13 @@ I also recommend that you watch the documentary [_Shusenjo - The Main Battlegrou
   <img src="/static/img/mass-effect-andromeda.png">
 </p>
 
+**The Dark Knight III: The Master Race**
 
+Ah, Frank Miller.
+
+Known for Batman: Year One, The Dark Knight Returns, Sin City, and 300. All have had their impact on pop culture in different ways.
+
+It was clearly a period of super-competence. Because THIS IS TRASH. It is one of the worst things I have ever read.
 
 **Best of the Rest**
 
