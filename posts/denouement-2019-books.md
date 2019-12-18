@@ -36,10 +36,8 @@ I read in the hopes of becoming an expert generalist. A buzzword to be sure, but
 <p align="center">
   <img src="/static/img/houseofx.jpg"
 
- <figcaption>This is my caption text.</figcaption>
+ <figcaption>Dawn of X</figcaption>
 </p>
-
- 
 
 I have a love-hate relationship with Marvel Comics, but I think the X-Men are the most interesting set of characters they have. After a missteps recently, the company decided to relaunch the entire series under the stewardship of Jonathan Hickman.
 
@@ -47,15 +45,9 @@ For three months, I feverishly waited for every Wednesday to get my hands on a c
 
 In Dawn of X, mutants have a completely new status quo: their own language, culture, societal structure, government (laws), and export. Hickman has even added interesting elements of sci-fi and cosmic horror without it seeming hokey.
 
+These twelve issues cover the establishment of the aforementioned and how the difficulties mutants have in maintaining cordial relations with a world that hates and/or fears them.
+
 It's not perfect and the X-Men world has always been a difficult to fit into the greater Marvel Universe, but this is a story well worth of your time.
-
-That, dear readers, is a resounding yes. God of War (2018) became an instant classic when it came out in April 2018. Having played the previous entries, and followed the marketing campaign for this latest iteration: I was very excited.
-
-It took me a little over a year to finally delve in, and boy -- this is a purchase I will never regret. Without any spoilers, God of War is a game about family, redemption and sacrifice. Backed by Bear McCreary and a stellar orchestra / choir, this adventure takes you through an interesting interpretation of Norse mythology and the relationship between a father and his son. The story is not perfect, but it resonated with me in a way that few other games have. Those stupid Valkyries though…
-
-I also had a blast with the photo mode, and you can see the results of that [here](https://iamedson.com/god-of-war). 
-
-Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest of ever playing the game, I still recommend it.
 
 <p align="center">--</p>
 
