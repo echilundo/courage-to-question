@@ -9,8 +9,6 @@ tags:
   - denouement
   - books
 ---
-
-
 \--
 
 This year, I read quite the number of books, comics (errr...graphic novels) and articles.
@@ -58,13 +56,7 @@ It's not perfect and the X-Men world has always been a difficult to fit into the
 This book was a recommendation by a good friend of mine, though I was wary of approaching it from my own experiences in Kyoto where I:
 
 * Experienced culture, academics and business in an almost equal measure;
-
-
-
 * I dated a half Japanese-half Ethiopian person for a while;
-
-
-
 * Did all this from mostly Anglo-American worldview mixed in with elements of _lusophonia_ and Mozambique.
 
 That out of the way, Dogs and Demons is a fascinating, but by no means perfect read. While dated in parts by now, many of the underlying aspects that are talked about are still relevant today (even if it is written by a non-Japanese national). A number of the thoughts laid out here have begun to be echoed by Japanese nationals. Though mostly those who find themselves outside the usual system, whether it's voluntary or not. In the case of my…ex-girlfriend she’s very Japanese in her behavior (IMO) but there is enough difference in it and enough melanin in her skin that she often found herself as the one on the outside looking in. Which made it extremely interesting to learn about Japan from someone with one foot in and another out.
@@ -114,15 +106,6 @@ It was clearly a period of super-competence. Because THIS IS TRASH. It is one of
 **Best of the Rest**
 
 * _Doomsday Clock by Geoff Johns_ - A standalone story that examines the dichotomy of Dr. Manhattan and Superman. Ongoing.
-
-
-
 * _Hold Me Tight: Seven Conversations for a Lifetime of Love by Sue Johnson_ - Forced me to reanalyze my last relationship and how I was a poor communicator, even though I thought I was a good one...
-
-
-
 * _Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything by Kelly & Zach Weinersmith_ - A brief and sometimes comical read on technologies that could have the potential to be game-changing.
-
-
-
 * _That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea by Marc Randolph -_ Of course, these stories almost always use the best / worst parts of the story. But there are some useful lessons here for both professional and personal use.
