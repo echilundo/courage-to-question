@@ -47,3 +47,10 @@ In Dawn of X, mutants have a completely new status quo: their own language, cult
 
 These twelve issues cover the establishment of the aforementioned and how the difficulties mutants have in maintaining cordial relations with a world that hates and/or fears them.
 It’s not perfect and the X-Men world has always been a difficult to fit into the greater Marvel Universe, but this is a story well worth of your time.
+
+<p align="center">--</p>
+<img src="/static/img/dogsdemons.jpg">
+
+![](/static/img/dogsdemons.jpg)
+
+![](/static/img/dogsdemons.jpg)
