@@ -18,7 +18,8 @@ You could argue that it’s the way I learn best, but truthfully, there isn’t 
 
 As a quick aside, let me show you my reading statistics from Pocket this year:
 
+<p align="center">
+  <img src="/static/img/pocket.png">
 
-
-
+</p>
 That’s a lot of reading, and a regular occurrence since 2015.
