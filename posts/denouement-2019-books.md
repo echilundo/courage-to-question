@@ -23,3 +23,5 @@ As a quick aside, let me show you my reading statistics from Pocket this year:
 
 </p>
 That’s a lot of reading, and a regular occurrence since 2015.
+
+<h2 style="text-align: center;">I Was Impressed By</h2>
