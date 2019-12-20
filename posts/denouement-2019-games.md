@@ -102,5 +102,7 @@ I took some [photos](https://iamedson.com/spidey) too.
 **Best of the Rest**
 
 * Dying Light - played in a LAN over the course of a weekend. Good fun.
+
 * Horizon: Zero Dawn ([photoset](https://iamedson.com/horizon)) - well-realized world that was missing that extra oomph. I am optimistic for the inevitable sequel.
+
 * Uncharted: The Nation Drake Collection ([photoset](https://iamedson.com/uncharted)) - Overrated? Yes. Fun? Also yes.
