@@ -10,6 +10,8 @@ tags:
   - reading
   - books
 ---
+![]()
+
 \--
 
 This year, I read quite the number of books, comics (errr…graphic novels) and articles.
@@ -40,7 +42,7 @@ These twelve issues cover the establishment of the aforementioned and how the di
 
 <p align="center"> — </p>
 
-![dogsanddemons](/static/img/dogsndemons.png#center)
+![dogsanddemons](/static/img/dogsndemons.png#center "Dogs and Demons")
 
 <p align="center"> — </p>
 
@@ -52,7 +54,7 @@ Much has been said about Francis Fukuyama’s earlier works, and thus I dipped i
 
 <p align="center"> — </p>
 
-\*The Dark Knight III: The Master Race\*
+![dk3](/static/img/dk3.jpg "The Dark Knight III")
 
 Ah, Frank Miller.
 
