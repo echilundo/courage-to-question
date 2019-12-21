@@ -88,6 +88,12 @@ I also recommend that you watch the documentary [Shusenjo - The Main Battlegroun
 
 <figcaption style="text-align: center;">The Divide: Global Inequality from Conquests to Free Markets</figcaption>
 
+Perfect? No. But an eye-opening read that covers some of the global policies and actions that have contributed severe economic disparities across nations and individuals.
+
+> “If you have ever found yourself wondering what is responsible for global poverty, this is your answer. We in the West caused the underdevelopment, poverty and hunger. We got rich doing it. We continue to do it. We couldn’t care less."
+
+The solutions presented are at odds with the state of the planet, but I completely understand where he is coming from.
+
 <h2 style="text-align: center;">I Was Disappointed By</h2>
 
 ![identity](/static/img/identity.jpg "Identity: Contemporary Identity Politics and the Struggle for Recognition")
