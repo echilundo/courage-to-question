@@ -89,7 +89,7 @@ But do feast your eyes on the photos and videos I've taken [here](https://iameds
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l46CkFQJ9GRlWataM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/agentm-ps4-spider-man-spiderman-l46CkFQJ9GRlWataM">via GIPHY</a></p>
 
-I won't spend too much time on this. The game is masterful at making you feel like Spidey from beginning to end with controls that are intuitive. Shame about the story though (with the major exception of Peter and MJ's relationship: that was damn good).
+I won't spend too much time on this. The game is masterful at making you feel like Spidey from beginning to end with intuitive controls. Shame about the story though (with the major exception of Peter and MJ's relationship: that was damn good).
 
 I took some [photos](https://iamedson.com/spidey) too.
 
