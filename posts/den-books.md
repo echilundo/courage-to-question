@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'Den: Books'
+title: 'Denouement 2019: Books'
 date: 2019-12-21T17:45:50.211Z
 summary: |-
   The books that impressed and disappointed me in 2019 | 
