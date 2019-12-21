@@ -12,6 +12,8 @@ tags:
 ---
 ![]()
 
+![]()
+
 \--
 
 This year, I read quite the number of books, comics (errr…graphic novels) and articles.
@@ -83,6 +85,8 @@ I also recommend that you watch the documentary [Shusenjo - The Main Battlegroun
 <p align="center"> — </p>
 
 <h2 style="text-align: center;">I Was Disappointed By</h2>
+
+![identity](/static/img/identity.jpg)
 
 <figcaption style="text-align: center;">Identity: Contemporary Identity Politics and the Struggle for Recognition</figcaption>
 
