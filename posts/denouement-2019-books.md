@@ -2,9 +2,9 @@
 draft: false
 title: 'Denouement 2019: Books'
 date: 2019-12-21T12:42:41.204Z
-summary: >-
-  The books that impressed and disappointed me in 2019 | Reading time: 3 minutes
-  57 seconds.
+summary: |-
+  The books that impressed and disappointed me in 2019 | 
+  Reading time: 8 minutes, 2 seconds.
 tags:
   - denouement
   - reading
