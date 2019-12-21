@@ -10,10 +10,6 @@ tags:
   - reading
   - books
 ---
-![]()
-
-![]()
-
 \--
 
 This year, I read quite the number of books, comics (errr…graphic novels) and articles.
