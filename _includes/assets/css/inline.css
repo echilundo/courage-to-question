@@ -150,3 +150,14 @@ a[rel="tag"]:hover {
 a[rel="tag"]:last-child {
 	margin-right: 0;
 }
+
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
