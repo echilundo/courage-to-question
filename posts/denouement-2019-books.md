@@ -28,7 +28,7 @@ So…I guess another another reason I read is in the hopes of becoming an expert
 
 <p align=“center”>—</p>
 
-<h2 style=“text-align: center;”>I Was Impressed By</h2>
+</p><h2 style="text-align: center;">I Was Impressed By</h2>
 
 ![](/static/img/houseofx.jpg#center)
 
@@ -40,7 +40,7 @@ These twelve issues cover the establishment of the aforementioned and how the di
 
 <p align=“center”>—</p>
 
-<h2 style=“text-align: center;”>I Was Disappointed By</h2>
+</p><h2 style="text-align: center;">I Was Disappointed By</h2>
 
 \*Identity: Contemporary Identity Politics and the Struggle for Recognition by Francis Fukuyama\*
 
