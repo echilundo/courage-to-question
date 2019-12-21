@@ -24,6 +24,16 @@ So…I guess another another reason I read is in the hopes of becoming an expert
 
 <p align=“center”>—</p>
 
+<h2 style=“text-align: center;”>I Was Impressed By</h2>
+
+I have a love-hate relationship with Marvel Comics, but I think the X-Men are the most interesting set of characters they have. After a missteps recently, the company decided to relaunch the entire series under the stewardship of Jonathan Hickman. For three months, I feverishly waited for every Wednesday to get my hands on a copy of the next installment. It is something I had never done before in all the years I had read comics.
+
+In Dawn of X, mutants have a completely new status quo: their own language, culture, societal structure, government (laws), and export. Hickman has even added interesting elements of sci-fi and cosmic horror without it seeming hokey.
+
+These twelve issues cover the establishment of the aforementioned and how the difficulties mutants have in maintaining cordial relations with a world that hates and/or fears them. It’s not perfect and the X-Men world has always been a difficult to fit into the greater Marvel Universe, but this is a story well worth of your time.
+
+<p align=“center”>—</p>
+
 <h2 style=“text-align: center;”>I Was Disappointed By</h2>
 
 \*Identity: Contemporary Identity Politics and the Struggle for Recognition by Francis Fukuyama\*
