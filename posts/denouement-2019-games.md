@@ -13,11 +13,8 @@ tags:
 
 For a substantial part of this year, I found myself unemployed and there with a lot of free time on my hands. A part of that was spent on learning design, coding and job-hunting...and the other on attempting to catch up on an ever-growing backlog of games on both Steam and PSN.
 
-<h2 style="text-align: center;">I Was Impressed By</h2>
-
-<p align="center">
-  <img src="/static/img/god-of-war-ps4-.png">
-
+<h2 style="text-align: center;">I Was Impressed By</h2><p align="center">
+<img src="/static/img/god-of-war-ps4-.png">
 </p>
 
 In the past, Kratos and the God of War franchise represented teenage power fantasies (with some angst). Though, it did so with excellent mechanics that have influenced countless other games. In the years between the two major releases, the video game industry matured some more and culture became incrementally more politically correct. Did Kratos still have room in the modern world?
@@ -33,7 +30,7 @@ Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) docum
 <p align="center">--</p>
 
 <p align="center">
-  <img src="/static/img/hitman-2016-alt-2.png">
+<img src="/static/img/hitman-2016-alt-2.png">
 </p>
 
 Another game that was reimagined for modern tastes and sensibilities. The folks at Noclip covered this in excellent [documentary series](https://www.ioi.dk/hitman-noclip/). I am noticing a theme here.
@@ -63,7 +60,7 @@ But it’s all so satisfying when it comes together at the end. I can only assum
 <h2 style="text-align: center;">I Was Disappointed By</h2>
 
 <p align="center">
-  <img src="/static/img/mass-effect-andromeda.png">
+<img src="/static/img/mass-effect-andromeda.png">
 </p>
 
 Anyone who has known for a good period of time knows that I LOVE Mass Effect. I bought the original on Xbox 360 and PC. I bought Dragon Age: Origins just because it had the armor for the sequel (honestly, the world of Thedas was an afterthought for me). Bought the limited edition of Mass Effect 2. And my then-girlfriend bought the limited edition of Mass Effect 3 for my birthday. I still feel slightly guilty about that because that game's ending was terrible. Don't believe me? Google "ME3 ending reaction".
@@ -77,7 +74,7 @@ Investigative journalist, Jason Schreier, provided us with an account of the tro
 <p align="center">--</p>
 
 <p align="center">
-  <img src="/static/img/red-dead-redemption-2.png">
+<img src="/static/img/red-dead-redemption-2.png">
 </p>
 
 Made by the people behind the juggernaut that is the Grand Theft Auto series, this game really tested my sangfroid. Don't get me wrong, it is a fantastically realized world made with a LOT of care. It is honestly the best cowboy simulator ever made.
@@ -98,8 +95,8 @@ I took some [photos](https://iamedson.com/spidey) too.
 
 **Best of the Rest**
 
-* Dying Light - played in a LAN over the course of a weekend. Good fun.
+* *Dying Light* - played in a LAN over the course of a weekend. Good fun.
 
-* Horizon: Zero Dawn ([photoset](https://iamedson.com/horizon)) - well-realized world that was missing that extra oomph. I am optimistic for the inevitable sequel.
+* *Horizon: Zero Dawn* ([photoset](https://iamedson.com/horizon)) - well-realized world that was missing that extra oomph. I am optimistic for the inevitable sequel.
 
-* Uncharted: The Nation Drake Collection ([photoset](https://iamedson.com/uncharted)) - Overrated? Yes. Fun? Also yes.
+* *Uncharted: The Nation Drake Collection* ([photoset](https://iamedson.com/uncharted)) - Overrated? Yes. Fun? Also yes.
