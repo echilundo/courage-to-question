@@ -74,6 +74,8 @@ With all the criticism, I found myself moving back to Japan. Better the demon yo
 
 I welcome a discussion on any and all of what I’ve covered here. It will be an opportunity for all of us to learn and fine-tune (or correct) our thoughts on Japan and its people. Our world views may clash, but hopefully, we’ll come out of it with more information and more wisdom to build a…harmonious world. Harmony as acceptance of differences, and not as “a denial of differences and an embrace of sameness. Sameness in interpersonal relationships means a reflection of the other, the basic concept of which derives from narcissism”.
 
+I also recommend that you watch the documentary [Shusenjo - The Main Battleground of the Comfort Women Issue](https://www.shusenjo.com/). It’s a harrowing, but essential watch.
+
 <p align="center"> — </p>
 
 <h2 style="text-align: center;">I Was Disappointed By</h2>
