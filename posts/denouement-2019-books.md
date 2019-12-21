@@ -22,6 +22,8 @@ You could argue that it’s the way I learn best, but truthfully, there isn’t 
 
 As a quick aside, let me show you my reading statistics from Pocket this year:
 
+
+
 So…I guess another another reason I read is in the hopes of becoming an expert generalist. A buzzword to be sure, but the simplest way to explain it. There isn’t a singular path to it, and even this very website are part of the steps towards it. BUT…I have heavily digressed.
 
 <p align=“center”>—</p>
