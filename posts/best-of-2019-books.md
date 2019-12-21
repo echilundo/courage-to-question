@@ -18,7 +18,7 @@ This is the main post and will be updated as soon as the other entries are publi
 
 * [Games](https://blog.iamedson.com/posts/denouement-2019:-games/)
 * [Websites](https://blog.iamedson.com/posts/denouement-2019:-websites/)
-* Books
+* [Books](https://blog.iamedson.com/posts/denouement-2019:-books/)
 * YouTube Channels
 * TV Shows
 * Movies
