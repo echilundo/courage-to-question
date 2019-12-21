@@ -84,7 +84,7 @@ I also recommend that you watch the documentary [Shusenjo - The Main Battlegroun
 
 <p align="center"> — </p>
 
-![divide](/static/img/identity.jpg "The Divide")
+![divide](/static/img/divide.png#center "The Divide")
 
 <figcaption style="text-align: center;">The Divide: Global Inequality from Conquests to Free Markets</figcaption>
 
