@@ -30,13 +30,20 @@ Much has been said about Francis Fukuyama’s earlier works, and thus I dipped i
 
 <p align=“center”>—</p>
 
-
-\\*The Dark Knight III: The Master Race\\*
-
+\*The Dark Knight III: The Master Race\*
 
 Ah, Frank Miller.
 
+Known for Batman: Year One, The Dark Knight Returns, Sin City, and 300. All have had their impact on pop culture in different ways. It was clearly a period of super-competence. Because THIS IS TRASH. It is one of the worst things I have ever the displeasure of reading.
 
-Known for Batman: Year One, The Dark Knight Returns, Sin City, and 300. All have had their impact on pop culture in different ways.
-It was clearly a period of super-competence. Because THIS IS TRASH. It is one of the worst things I have ever the displeasure of reading.
 <p align=“center”>—</p>
+
+**Best of the Rest**
+
+* *Doomsday Clock by Geoff Johns* - A standalone story that examines the dichotomy of Dr. Manhattan and Superman. An interesting tale that is worth a read.
+
+* *Hold Me Tight: Seven Conversations for a Lifetime of Love by Sue Johnson* - Forced me to reanalyze my last relationship and how I was a poor communicator, even though I thought I was a good one…
+
+* *Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything by Kelly & Zach Weinersmith* - A brief and sometimes comical read on technologies that could have the potential to be game-changing.
+
+* *That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea by Marc Randolp*h - Of course, these stories almost always use the best / worst parts of the story. But there are some useful lessons here for both professional and personal use.
