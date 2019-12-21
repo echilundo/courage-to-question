@@ -84,9 +84,13 @@ I also recommend that you watch the documentary [Shusenjo - The Main Battlegroun
 
 <p align="center"> — </p>
 
+![](/static/img/divide.png)
+
+<figcaption style="text-align: center;">The Divide: Global Inequality from Conquests to Free Markets</figcaption>
+
 <h2 style="text-align: center;">I Was Disappointed By</h2>
 
-![identity](/static/img/identity.jpg)
+![identity](/static/img/identity.jpg "Identity: Contemporary Identity Politics and the Struggle for Recognition")
 
 <figcaption style="text-align: center;">Identity: Contemporary Identity Politics and the Struggle for Recognition</figcaption>
 
