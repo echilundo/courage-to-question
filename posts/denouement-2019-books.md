@@ -10,6 +10,8 @@ tags:
   - reading
   - books
 ---
+![]()
+
 \--
 
 This year, I read quite the number of books, comics (errr…graphic novels) and articles.
@@ -21,6 +23,10 @@ For fun of course, but I have noticed over the past two years I have noticed a t
 You could argue that it’s the way I learn best, but truthfully, there isn’t any method that’s objectively better. However, there are objectively better ways to present certain types of content: such as seeing a visual representation of a food recipe as opposed to plain text.
 
 As a quick aside, let me show you my reading statistics from Pocket this year:
+
+<p align=“center”>
+<img src=“/static/img/pocket.png”>
+</p>
 
 
 
