@@ -54,7 +54,7 @@ Much has been said about Francis Fukuyama’s earlier works, and thus I dipped i
 
 <p align="center"> — </p>
 
-![dk3](/static/img/dk3.jpg "The Dark Knight III")
+![dk3](/static/img/dk3.jpg "DK III: The Master Race")
 
 Ah, Frank Miller.
 
