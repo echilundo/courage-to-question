@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Denouement 2019: Books'
 date: 2019-12-21T12:42:41.204Z
 summary: >-
@@ -84,7 +84,7 @@ I also recommend that you watch the documentary [Shusenjo - The Main Battlegroun
 
 <p align="center"> — </p>
 
-![divide](/static/img/divide.png#center "The Divide")
+![divide](/static/img/identity.jpg "The Divide")
 
 <figcaption style="text-align: center;">The Divide: Global Inequality from Conquests to Free Markets</figcaption>
 
@@ -117,9 +117,6 @@ Known for Batman: Year One, The Dark Knight Returns, Sin City, and 300. All have
 **Best of the Rest**
 
 * *Doomsday Clock by Geoff Johns* - A standalone story that examines the dichotomy of Dr. Manhattan and Superman. An interesting tale that is worth a read.
-
 * *Hold Me Tight: Seven Conversations for a Lifetime of Love by Sue Johnson* - Forced me to reanalyze my last relationship and how I was a poor communicator, even though I thought I was a good one…
-
 * *Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything by Kelly & Zach Weinersmith* - A brief and sometimes comical read on technologies that could have the potential to be game-changing.
-
 * *That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea by Marc Randolph* - Of course, these stories almost always use the best / worst parts of the story. But there are some useful lessons here for both professional and personal use.
