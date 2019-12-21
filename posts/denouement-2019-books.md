@@ -34,6 +34,8 @@ So…I guess another reason I read is in the hopes of becoming an expert general
 
 ![dawnofx](/static/img/houseofx.jpg#center "Dawn of X")
 
+<figcaption style="text-align: center;">Dawn of X</figcaption>
+
 I have a love-hate relationship with Marvel Comics, but I think the X-Men are the most interesting set of characters they have. After a bunch of missteps recently, the company decided to relaunch the entire series under the stewardship of Jonathan Hickman. For three months, I feverishly waited for every Wednesday to get my hands on a copy of the next installment. It is something I had never done before in all the years I had read comics.
 
 In Dawn of X, mutants have a completely new status quo: their own language, culture, societal structure, government (laws), and export. Hickman has even added interesting elements of sci-fi and cosmic horror without it seeming hokey.
@@ -43,6 +45,8 @@ These twelve issues cover the establishment of the aforementioned and how the di
 <p align="center"> — </p>
 
 ![dogsanddemons](/static/img/dogsndemons.png#center "Dogs and Demons")
+
+<figcaption style="text-align: center;">Dogs and Demons: Tales from the Dark Side of Japan</figcaption>
 
 ￼This book was recommended by a good friend of mine. When I approached it, I was wary of bias due to my own experiences in Kyoto where I:
 
@@ -58,7 +62,7 @@ Economically, I suppose it \[Japan] skates by. Consumption is the name of the ga
 
 Recently, JETRO has opened a section on the site where companies interested in hiring foreign employees. At the time of this writing, a grand total of 18 companies are listed. Which isn’t much…but it’s a start.
 
-Japan is a remarkable country that is facing something of an identity crisis. A crisis that tends to be ignored in lieu of harmony (read: obedience).*Dogs and Demons* provides substantial evidence as to why this is the case, and this is backed up (mind you, anecdotally). Perhaps this is confirmation bias, and a result of my own experience with an identity crisis and brushes with anthropology and psychology in my personal, professional and academic lives. Being a third culture individual only served to exacerbate this.
+Japan is a remarkable country that is facing something of an identity crisis. A crisis that tends to be ignored in lieu of harmony (read: obedience). *Dogs and Demons* provides substantial evidence as to why this is the case, and this is backed up (mind you, anecdotally). Perhaps this is confirmation bias, and a result of my own experience with an identity crisis and brushes with anthropology and psychology in my personal, professional and academic lives. Being a third culture individual only served to exacerbate this.
 
 As an expat, reading this made me doubly concerned about the direction the country is heading in and the relative indifference that the general folk has regarding its future. Or just plain nihilism. Internally, you can see the strain caused by a number of different things. And externally, Japan has to interact in a sociopolitical climate that is very dynamic and often places it on a pedestal. It is this pedestal that allows it to continue exercising its soft power in myriad ways. But that is only part of the answer.
 
@@ -80,13 +84,15 @@ I also recommend that you watch the documentary [Shusenjo - The Main Battlegroun
 
 <h2 style="text-align: center;">I Was Disappointed By</h2>
 
-\*Identity: Contemporary Identity Politics and the Struggle for Recognition by Francis Fukuyama\*
+<figcaption style="text-align: center;">Identity: Contemporary Identity Politics and the Struggle for Recognition</figcaption>
 
 Much has been said about Francis Fukuyama’s earlier works, and thus I dipped into his most recent body of work. Compared to my parents, I was less exposed to philosophy and the study of society in general throughout my school years. So…reading a heavily summarized version of this was a great window into a new world. But the last few chapters were quite disappointing. I didn’t expect answers, but as a person who has struggled with identity and his place in the world: it was far less than I expected. Maybe the problem is me?
 
 <p align="center"> — </p>
 
 ![dk3](/static/img/dk3.jpg "DK III: The Master Race")
+
+<figcaption style="text-align: center;">Dark Knight III: The Master Race</figcaption>
 
 Ah, Frank Miller.
 
