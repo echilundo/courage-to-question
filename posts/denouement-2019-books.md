@@ -84,7 +84,7 @@ I also recommend that you watch the documentary [Shusenjo - The Main Battlegroun
 
 <p align="center"> — </p>
 
-![](/static/img/divide.png)
+![divide](/static/img/divide.png "The Divide")
 
 <figcaption style="text-align: center;">The Divide: Global Inequality from Conquests to Free Markets</figcaption>
 
@@ -96,7 +96,7 @@ The solutions presented are at odds with the state of the planet, but I complete
 
 <h2 style="text-align: center;">I Was Disappointed By</h2>
 
-![identity](/static/img/identity.jpg "Identity: Contemporary Identity Politics and the Struggle for Recognition")
+![identity](/static/img/identity.jpg "Identity")
 
 <figcaption style="text-align: center;">Identity: Contemporary Identity Politics and the Struggle for Recognition</figcaption>
 
@@ -117,6 +117,9 @@ Known for Batman: Year One, The Dark Knight Returns, Sin City, and 300. All have
 **Best of the Rest**
 
 * *Doomsday Clock by Geoff Johns* - A standalone story that examines the dichotomy of Dr. Manhattan and Superman. An interesting tale that is worth a read.
+
 * *Hold Me Tight: Seven Conversations for a Lifetime of Love by Sue Johnson* - Forced me to reanalyze my last relationship and how I was a poor communicator, even though I thought I was a good one…
+
 * *Soonish: Ten Emerging Technologies That’ll Improve and/or Ruin Everything by Kelly & Zach Weinersmith* - A brief and sometimes comical read on technologies that could have the potential to be game-changing.
-* *That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea by Marc Randolp*h - Of course, these stories almost always use the best / worst parts of the story. But there are some useful lessons here for both professional and personal use.
+
+* *That Will Never Work: The Birth of Netflix and the Amazing Life of an Idea by Marc Randolph* - Of course, these stories almost always use the best / worst parts of the story. But there are some useful lessons here for both professional and personal use.
