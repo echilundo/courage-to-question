@@ -22,17 +22,15 @@ You could argue that it’s the way I learn best, but truthfully, there isn’t 
 
 As a quick aside, let me show you my reading statistics from Pocket this year:
 
-<p align=“center”>
-<img src=“/static/img/pocket2019.png”>
-</p>
-
-![](/static/img/pocket2019.png)
+![](/static/img/pocket2019.png#center)
 
 So…I guess another another reason I read is in the hopes of becoming an expert generalist. A buzzword to be sure, but the simplest way to explain it. There isn’t a singular path to it, and even this very website are part of the steps towards it. BUT…I have heavily digressed.
 
 <p align=“center”>—</p>
 
 <h2 style=“text-align: center;”>I Was Impressed By</h2>
+
+![](/static/img/houseofx.jpg#center)
 
 I have a love-hate relationship with Marvel Comics, but I think the X-Men are the most interesting set of characters they have. After a missteps recently, the company decided to relaunch the entire series under the stewardship of Jonathan Hickman. For three months, I feverishly waited for every Wednesday to get my hands on a copy of the next installment. It is something I had never done before in all the years I had read comics.
 
