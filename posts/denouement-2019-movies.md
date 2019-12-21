@@ -7,4 +7,4 @@ tags:
   - denouement
   - movies
 ---
-Placeholer
+Placeholder
