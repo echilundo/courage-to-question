@@ -21,11 +21,11 @@ In the past, Kratos and the God of War franchise represented teenage power fanta
 
 That, dear readers, is a resounding yes. God of War (2018) became an instant classic when it came out in April 2018. Having played the previous entries, and followed the marketing campaign for this latest iteration: I was very excited.
 
-It took me a little over a year to finally delve in, and boy -- this is a purchase I will never regret. Without any spoilers, God of War is a game about family, redemption and sacrifice. Backed by Bear McCreary and a stellar orchestra / choir, this adventure takes you through an interesting interpretation of Norse mythology and the relationship between a father and his son. The story is not perfect, but it resonated with me in a way that few other games have. Those stupid Valkyries though…
+It took me a little over a year to finally delve in, and boy -- this is a purchase I will never regret. Without any spoilers, God of War is a game about family, redemption, and sacrifice. Backed by Bear McCreary and a stellar orchestra/choir, this adventure takes you through an interesting interpretation of Norse mythology and the relationship between a father and his son. The story is not perfect, but it resonated with me in a way that few other games have. Those stupid Valkyries though…
 
 I also had a blast with the photo mode, and you can see the results of that [here](https://iamedson.com/god-of-war). 
 
-Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest of ever playing the game, I still recommend it.
+Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) documenting the herculean process  reimagining Kratos and the God of War franchise. If you have played the game, it is essential viewing. Hell, even if you have no interest in ever playing the game, I still recommend it.
 
 <p align="center">--</p>
 
@@ -35,9 +35,9 @@ Sony released a [documentary](https://www.youtube.com/watch?v=ra_R-K_IoUc) docum
 
 Another game that was reimagined for modern tastes and sensibilities. The folks at Noclip covered this in excellent [documentary series](https://www.ioi.dk/hitman-noclip/). I am noticing a theme here.
 
-Anyways, how do you take a character who has barcode tattoo on the back of his head seriously? You don’t.
+Anyways, how do you take a character who has a barcode tattoo on the back of his head seriously? You don’t.
 
-What you do - do though is engage in a terrific sandbox that takes place all over the world: just to assassinate someone. Mission too easy for you? Try one of the Escalations: which are essentially remixed versions of the original levels. They force to learn the intricacies of the level, and change your approach instead of defaulting to tried-and-true methods.
+What you do - do though is engage in a terrific sandbox that takes place all over the world: just to assassinate someone. Mission too easy for you? Try one of the Escalations: which are essentially remixed versions of the original levels. They force you to learn the intricacies of the level and change your approach instead of defaulting to tried-and-true methods.
 
 Try getting rid of the target in a Santa Claus outfit. Or sneaking into the top floor of a heavily guarded mansion to get rid of a corrupt agent with a samurai sword. Or how about picking one escalation where you can't put away your pistol for more than 7 seconds or you lose. It’s ridiculous and I love it. My go-to game for some downtime.
 
@@ -47,13 +47,13 @@ It also gave me a magical idea for a honeymoon. Should I ever get married.
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/UovJw8VQReFiiIy8C9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/team17-overcooked-2-overcooked2-UovJw8VQReFiiIy8C9">via GIPHY</a></p>
 
-**Overcooked** has been on *to-play* list since release. I didn't get a chance to at the time since I had an impending move to Kyoto, and well, priorities. This year, I finally got my chance courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. It also paved the way for the much cited, internal joke:
+**Overcooked** has been on *the to-play* list since release. I didn't get a chance to at the time since I had an impending move to Kyoto, and well, priorities. This year, I finally got my chance courtesy of PSN Plus. It’s a fantastic, quirky game that led to several moments of tension and stress between my brothers and I. It also paved the way for the much-cited, internal joke:
 
 <p style="text-align: center; color: gold">You guys are not serious about life.</p>
 
-This came out of my mouth after my brothers' terrible kitchen coordination led to us failing the level for the upteenth time.
+This came out of my mouth after my brothers' terrible kitchen coordination led to us failing the level for the umpteenth time.
 
-But it’s all so satisfying when it comes together at the end. I can only assume that playing this with a significant other make put a (temporary) strain on the relationship.
+But it’s all so satisfying when it comes together in the end. I can only assume that playing this with a significant other puts a (temporary) strain on the relationship.
 
 <p align="center">--</p>
 
@@ -83,13 +83,13 @@ But I keep fighting the in-game systems and the controller to do what I want. Pe
 
 I have played this for 25-30 hours. I have yet to finish it.
 
-But do feast your eyes on photos and videos I've taken [here](https://iamedson.com/red-dead). Plus, I recommend Film Crit Hulk's thoughts on the game [here](https://www.polygon.com/2019/4/22/18298277/red-dead-redemption-2-pc-review-rdr2-story-design-criticism).
+But do feast your eyes on the photos and videos I've taken [here](https://iamedson.com/red-dead). Plus, I recommend Film Crit Hulk's thoughts on the game [here](https://www.polygon.com/2019/4/22/18298277/red-dead-redemption-2-pc-review-rdr2-story-design-criticism).
 
 <p align="center">--</p>
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l46CkFQJ9GRlWataM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/agentm-ps4-spider-man-spiderman-l46CkFQJ9GRlWataM">via GIPHY</a></p>
 
-I won't spend too much time on this. The game is masterful at making you feel like Spidey from beginning to end with controls that are intuitive. Shame about the story though (with the major of exception of Peter and MJ's relationship: that was damn good).
+I won't spend too much time on this. The game is masterful at making you feel like Spidey from beginning to end with controls that are intuitive. Shame about the story though (with the major exception of Peter and MJ's relationship: that was damn good).
 
 I took some [photos](https://iamedson.com/spidey) too.
 
