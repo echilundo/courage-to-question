@@ -90,6 +90,8 @@ Perfect? No. But an eye-opening read that covers some of the global policies and
 
 The solutions presented are at odds with the state of the planet, but I completely understand where he is coming from.
 
+<p align="center"> — </p>
+
 <h2 style="text-align: center;">I Was Disappointed By</h2>
 
 ![identity](/static/img/identity.png#center "Identity")
