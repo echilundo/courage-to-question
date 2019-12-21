@@ -26,7 +26,7 @@ As a quick aside, let me show you my reading statistics from Pocket this year:
 
 So…I guess another another reason I read is in the hopes of becoming an expert generalist. A buzzword to be sure, but the simplest way to explain it. There isn’t a singular path to it, and even this very website are part of the steps towards it. BUT…I have heavily digressed.
 
-<p align=“center”>—</p>
+<p align="center"> — </p>
 
 <h2 style="text-align: center;">I Was Impressed By</h2>
 
@@ -38,11 +38,11 @@ In Dawn of X, mutants have a completely new status quo: their own language, cult
 
 These twelve issues cover the establishment of the aforementioned and how the difficulties mutants have in maintaining cordial relations with a world that hates and/or fears them. It’s not perfect and the X-Men world has always been a difficult to fit into the greater Marvel Universe, but this is a story well worth of your time.
 
-<p align=“center”>—</p>
+<p align="center"> — </p>
 
 ![dogsanddemons](/static/img/dogsndemons.png#center)
 
-<p align=“center”>—</p>
+<p align="center"> — </p>
 
 <h2 style="text-align: center;">I Was Disappointed By</h2>
 
@@ -50,7 +50,7 @@ These twelve issues cover the establishment of the aforementioned and how the di
 
 Much has been said about Francis Fukuyama’s earlier works, and thus I dipped into his most recent body of work. Compared to my parents, I was less exposed to philosophy and the study of society in general throughout my school years. So…reading a heavily summarized version of this was a great window into a new world. But the last few chapters were quite disappointing. I didn’t expect answers, but as a person who has struggled with identity and his place in the world: it was far less than I expected. Maybe the problem is me?
 
-<p align=“center”>—</p>
+<p align="center"> — </p>
 
 \*The Dark Knight III: The Master Race\*
 
@@ -58,7 +58,7 @@ Ah, Frank Miller.
 
 Known for Batman: Year One, The Dark Knight Returns, Sin City, and 300. All have had their impact on pop culture in different ways. It was clearly a period of super-competence. Because THIS IS TRASH. It is one of the worst things I have ever had the displeasure of reading.
 
-<p align=“center”>—</p>
+<p align="center"> — </p>
 
 **Best of the Rest**
 
