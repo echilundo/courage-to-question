@@ -17,8 +17,10 @@ This curated always includes music from all four corners of the planet and cover
 
 Please find it on favored platform below:
 
-Apple Music
+**Apple Music**
 
-[Spotify](https://open.spotify.com/playlist/5RfrSLxKWCFCurdTA8bc6j)
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/best-of-2019/pl.u-NpXYgjGTmKaEaV"></iframe>
 
-[YouTube](https://www.youtube.com/playlist?list=PLOYGc_RpHpm29ZBJxqlJS75dBLMB8fV1j)
+**[Spotify](https://open.spotify.com/playlist/5RfrSLxKWCFCurdTA8bc6j)**
+
+**[YouTube](https://www.youtube.com/playlist?list=PLOYGc_RpHpm29ZBJxqlJS75dBLMB8fV1j)**
