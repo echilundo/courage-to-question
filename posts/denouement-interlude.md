@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'Denouement: Interlude'
+title: 'Denouement 2019: Interlude'
 date: 2019-12-29T09:50:19.147Z
 summary: Ed's curated 'Best of 2019' music playlist
 tags:
