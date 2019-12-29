@@ -17,10 +17,8 @@ This curated always includes music from all four corners of the planet and cover
 
 Please find it on favored platform below:
 
-**Apple Music**
+Apple Music
 
-**Spotify**
+[Spotify](https://open.spotify.com/playlist/5RfrSLxKWCFCurdTA8bc6j)
 
-**YouTube**
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLOYGc_RpHpm29ZBJxqlJS75dBLMB8fV1j" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[YouTube](https://www.youtube.com/playlist?list=PLOYGc_RpHpm29ZBJxqlJS75dBLMB8fV1j)
