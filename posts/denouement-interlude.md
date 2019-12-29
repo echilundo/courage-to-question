@@ -15,7 +15,7 @@ The original playlist is made in Apple Music and converted to both Spotify and Y
 
 This curated always includes music from all four corners of the planet and covers a dizzying amount of genres.
 
-Please find it on favored platform below:
+Please find it on your favored platform below:
 
 **Apple Music (311 songs)**
 
