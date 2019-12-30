@@ -1,14 +1,14 @@
 ---
 draft: true
 title: 'Denouement 2019: YouTube Channels'
-date: 2019-12-21T15:28:18.317Z
-summary: The YouTube channels that impressed me in 2019 | Reading time
+date: 2019-12-30T11:48:00.000Z
+summary: >-
+  The YouTube channels that impressed me in 2019 | Reading time: 3 minutes 6
+  seconds.
 tags:
   - denouement
   - video
 ---
-
-
 \--
 
 I subscribe to a couple of YouTube channels, but the ones listed here consistently put out high-quality content that always gets me to stop what I am doing and tune in.
@@ -21,7 +21,7 @@ Here they are:
 
 Archipel is a channel that focuses on Japanese artists and their inspirations. This ranges from traditional art, to food, to music to video games. Their high-quality production value only accentuates the interesting content they put out.
 
-Start with Ebb and Flow - Conversations on the momentum of Japanese game industry ([link](https://www.youtube.com/watch?v=_j6ZHkg5BtE)).
+Start with [Ebb and Flow - Conversations on the momentum of Japanese game industry](https://www.youtube.com/watch?v=_j6ZHkg5BtE).
 
 They’ve also posted Japanese subtitles on [Medium](https://medium.com/@sail_13021/tales-from-archipel-8a54635963?source=---------2------------------) in case you’d like to learn how some uncommon words and phrases are used.
 
@@ -31,39 +31,43 @@ They’ve also posted Japanese subtitles on [Medium](https://medium.com/@sail_13
 
 I couldn’t let you go without a channel that analyzes global and local socioeconomic and political sphere. Based in Baku, Azerbaijan, the group provides a good summary of certain situations from two or more points of view…well, as much as can be covered in video format.
 
-If you’d like more, subscribe to them on Patreon. Here’s a free one ([Intel briefing, week 05 | CaspianReport on Patreon](https://www.patreon.com/posts/intel-briefing-7931410)).
+If you’d like more, subscribe to them on Patreon. [Here's](https://www.patreon.com/posts/intel-briefing-7931410) a free one.
 
-Just jump straight into the channel here ([CaspianReport - YouTube](https://www.youtube.com/user/CaspianReport/featured))
+Just jump straight into the channel [here](https://www.youtube.com/user/CaspianReport/featured).
 
 ### Casually Explained
 
 This channel features a series of educational videos (that border on parody) about anything and everything. Full of wit, sarcasm and interesting observations;  the videos never overstay their welcome.
 
-Start with Is She Into You? ([link](https://www.youtube.com/watch?v=xa-4IAR_9Yw))
+Start with [Is She Into You?](https://www.youtube.com/watch?v=xa-4IAR_9Yw)
 
 <p align="center"> — </p>
 
-# Noah Caldwell-Gervais / Raycevick
+### Noah Caldwell-Gervais / Raycevick
 
 These two are my favorite game critics on YouTube. Their content is often upwards of 60 minutes, and often delves into thematic content, gameplay mechanic, narrative intent and ludonarrative dissonance.  Yes, I just threw a bunch of words at you so I can sound smart. But really, it’s all there.
 
-Start with A Through Look at God of War ([A Thorough Look At God of War Spoilers - YouTube](https://www.youtube.com/watch?v=apX3q5PCrQQ)) and The Years Later… series ([Years Later (Complete) - YouTube](https://www.youtube.com/playlist?list=PL1COqvnFyo_PzSEtJZwbw-t5hBlicWaJ2))
+Start with [A Through Look at God of War](https://www.youtube.com/watch?v=apX3q5PCrQQ) and [The Years Later… series](https://www.youtube.com/playlist?list=PL1COqvnFyo_PzSEtJZwbw-t5hBlicWaJ2).
 
 <p align="center"> — </p>
 
-# Girlfriend Reviews
+### Girlfriend Reviews
 
 This channel is a true gem. Instead of reviewing video games, it talks about the being experience of being someone who watches her boyfriend plays games. The humor is always on point, and her “hol’ up a minute” always has me dying in stitches and of cuteness. What can I say? Sometimes I’m simple like that.
 
-Start with Should Your Boyfriend Play Red Dead Redemption 2? [Should Your Boyfriend Play Red Dead Redemption 2? - YouTube](https://www.youtube.com/watch?v=TAX5hTzxn8M)
+Start with [Should Your Boyfriend Play Red Dead Redemption 2?](https://www.youtube.com/watch?v=TAX5hTzxn8M)
 
 <p align="center"> — </p>
 
-# GVMERS / Noclip
+### GVMERS / Noclip
 
-Archipel is a channel that focuses on Japanese artists and their inspirations. This ranges from traditional art, to music to video games. Their high-quality production value only accentuates the interesting content they put out.
+GVMERS is basically the NatGeo of gaming. With Steve's voice as iconic as that of David Attenborough.
 
-Start with [Ebb and Flow - Conversations on the momentum of Japanese game](https://www.youtube.com/watch?v=_j6ZHkg5BtE).
+Start with [](https://www.youtube.com/watch?v=_j6ZHkg5BtE)[The Rise & Fall of Medal of Honor](https://www.youtube.com/watch?v=bj3qAIkbQw8) (I never knew Steven Spielberg was involved at the start).
+
+On the other hand, Noclip is a crowdfunded video game documentary machine that crafts meticulous content. They also have a series that go into different film-making techniques. So cool.
+
+Start with the [How the Simulation of Hitman Level Works](https://www.youtube.com/watch?v=EjvrTa6IKW8).
 
 <p align="center"> — </p>
 
