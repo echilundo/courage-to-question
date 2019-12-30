@@ -3,8 +3,8 @@ draft: true
 title: 'Denouement 2019: Music'
 date: 2019-12-30T10:35:00.000Z
 summary: >-
-  The music that impressed and disappointed me in 2019 | Reading time: 8
-  minutes, 2 seconds.
+  The music that impressed and disappointed me in 2019 | Reading time: 7
+  minutes, 36 seconds.
 tags:
   - denouement
   - music
@@ -188,19 +188,11 @@ RTRN II Jungle was too much of a departure for me. I like Jungle as a genre, but
 **Best of the Rest**
 
 * *The Lion King: The Gift by Beyoncé* - A much more pan-African album than Lamar’s Black Panther one. But it still neglects large swaths of the continent. Nevertheless, your ears won’t regret this.
-
 * *Bandana by Freddie Gibbs & Madlib* - The return of the winning combination of Freddie Gibbs’ ridiculous flow and Madlib’s insane production. The man composed every song on an iPhone. Pity about the former’s anti-vaxxer position.
-
 * *Diaspora by Goldlink* - I'm gonna let Yoh Phillips from DJ Booth handle this one: “a one-man Afropunk lineup, molding and morphing a potpourri of soundscapes in his image”.
-
 * *Lifa by Heilung*- A last-minute discovery thanks to Microsoft and Ninja Theory’s fantastic Hellblade II trailer. I honestly think a Nordic shaman time-traveled to the 21st century and recorded an album once he discovered modern drums. It’s brilliant.
-
 * *The Nothing by Korn* - The metal band has not has the best of years since 2002’s Untouchables. Seven (!) average albums have been released since then, and only in 2019 can we truly say that Korn has not only returned to form but adapted with the times. Let's hope the next one goes the extra mile with creativity.
-
 * *Fever by Megan Thee Stallion* - A multi-dimensional female empowerment album. Megan sparks joy.
-
 * *MF BLOOM + Flowervillain II by MF DOOM vs. Tyler The Creator* - A laid-back mash-up of two wildly different artists. It just works.
-
 * *The Return* by *Sampa the Great* - Ninja Tune is one of those music labels that nurtures a dizzying array of talent across different genres. While mainly known for their electronic work, they have done a terrific job in supporting Zambian-Australian singer-songwriter and rapper. One for the future.
-
 * *II by TNGHT* - Not as good as their debut effort, but quite an earworm of an album. It definitely sounds more spacious.
