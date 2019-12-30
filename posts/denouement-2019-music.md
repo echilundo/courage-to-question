@@ -48,3 +48,27 @@ There is an intense sense of scale akin I suppose to discovering that you are in
 * Io
 * Encounter On Io (Lee Gamble Remix)
 * Adrestea Contact (Logos Remix)
+
+<p align="center"> — </p>
+
+<figcaption style="text-align: center;">IGOR by Tyler, the Creator</figcaption>
+
+Tyler, the Creator is one of my favorite artists. I don’t know how the human body can contain so much creativity. IGOR was released earlier this and year and his arguably his best work.
+
+While his previous effort, Flower Boy,  was a magnum opus focused on the start and blooming of a new relationship, IGOR is easily its dark twin wherein Tyler deals with the breakup and all the emotions that come with it. Eerily enough, both mirror the start and end of a relationship of mine and were released at roughly the same period: 2017 and 2019.
+
+IGOR continues to highlight his growth both as a human being and one of the premier artists of his generation. I can’t wait to see what he does next.
+
+**Standout Tracks:**
+
+* IGOR’s Theme (feat. Kali Uchis & Lil Uzi Vert)
+* EARFQUAKE (feat. Charlie Wilson, Devonté Hynes & Playboi Carti)
+* NEW MAGIC WAND (feat. Santigold & A$AP Rocky)
+* A BOY IS A GUN
+* PUPPET (feat. Kanye West)
+* WHAT'S GOOD (feat. slowthai)
+* GONE, GONE / THANK YOU
+
+<p align="center"> — </p>
+
+<figcaption style="text-align: center;">The Mandalorian Score by Ludwig van Göransson</figcaption>
