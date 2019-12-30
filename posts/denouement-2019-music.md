@@ -73,8 +73,6 @@ IGOR continues to highlight his growth both as a human being and one of the prem
 
 <figcaption style="text-align: center;">Ravedeath, 1972 by Tim Hecker</figcaption>
 
-
-
 <p align="center"> — </p>
 
 <figcaption style="text-align: center;">The Mandalorian Score by Ludwig van Göransson</figcaption>
@@ -110,3 +108,11 @@ I am extremely excited to hear his score for Christopher “Can Do Almost Nothin
 <p align="center"> — </p>
 
 **Best of the Rest**
+
+* *Bandana by Freddie Gibbs & Madlib* - The return of the winning combination of Freddie Gibbs’ ridiculous flow and Madlib’s insane production. The man composed every song on an iPhone. Pity about the former’s anti-vaxxer position.
+* *Diaspora by Goldlink* - I'm gonna let Yoh Phillips from DJ Booth handle this one: “a one-man Afropunk lineup, molding and morphing a potpourri of soundscapes in his image”.
+* *Lifa by Heilung*- A last-minute discovery thanks to Microsoft and Ninja Theory’s fantastic Hellblade II trailer. I honestly think a Nordic shaman time-traveled to the 21st century and recorded an album once he discovered modern drums. It’s brilliant.
+* *Fever by Megan Thee Stallion* - A multi-dimensional female empowerment album. Megan sparks joy.
+* * *MF BLOOM + Flowervillain II by MF DOOM vs. Tyler The Creator* - A laid-back mash-up of two wildly different artists. It just works.
+* *II by TNGHT* - Not as good as their debut effort, but quite an earworm of an album. It definitely sounds more spacious.
+* *The Lion King: The Gift by Beyoncé* - A much more pan-African album than Lamar’s Black Panther one. But it still neglects large swaths of the continent. Nevertheless, your ears won’t regret this.
