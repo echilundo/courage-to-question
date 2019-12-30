@@ -95,15 +95,12 @@ I am extremely excited to hear his score for Christopher “Can Do Almost Nothin
 
 <figcaption style="text-align: center;">Watchmen (Music from the HBO Series) by Trent Reznor & Atticus Ross</figcaption>
 
-NUN WITH A MOTHERF*&*ING GUN
-
-I’LL WAIT
-
-THE BRICK
-
-A TRAVELLER FROM AN ANTIQUE LAND
-
-GHRAIB ME A TERRORIST
+* NUN WITH A MOTHERF*&*ING GUN
+* I'LL WAIT
+* THE BRICK
+* A TRAVELLER FROM AN ANTIQUE LAND
+* GHRAIB ME A TERRORIST
+* CLOCKMAKER
 
 <p align="center"> — </p>
 
