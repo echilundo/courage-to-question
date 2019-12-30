@@ -72,3 +72,9 @@ IGOR continues to highlight his growth both as a human being and one of the prem
 <p align="center"> — </p>
 
 <figcaption style="text-align: center;">The Mandalorian Score by Ludwig van Göransson</figcaption>
+
+Ludwig Göransson (named after Beethoven) is known for his outstanding work with director Ryan Coogler (he of Fruitvale Station, Creed, and Black Panther Fame) and being behind the boards of the multi-talented Donald Glover / Childish Gambino. The latter is an integral part of the TV shows  Community and Atlanta as well as releasing wondrous songs such as This is America and Redbone.
+
+When Ludwig was tasked with creating the exotic sound of The Mandalorian, the madman decided to craft an individual score for each episode. He’s managed to create an iconic theme that far surpasses anything in the Disney-released Star Wars films.
+
+I am extremely excited to hear his score for Christopher “Can Do Almost Nothing Wrong Except Interstellar and Dunkirk” Nolan’s TENƎT.
