@@ -95,11 +95,31 @@ I am extremely excited to hear his score for Christopher “Can Do Almost Nothin
 
 <figcaption style="text-align: center;">Watchmen (Music from the HBO Series) by Trent Reznor & Atticus Ross</figcaption>
 
+NUN WITH A MOTHERF*&*ING GUN
+
+I’LL WAIT
+
+THE BRICK
+
+A TRAVELLER FROM AN ANTIQUE LAND
+
+GHRAIB ME A TERRORIST
+
 <p align="center"> — </p>
 
 <h2 style="text-align: center;">I Was Disappointed By</h2>
 
 <figcaption style="text-align: center;">CrasH Talk by ScHoolboy Q</figcaption>
+
+The Q is a great musician, able to talk about the pleasures of life with a certain panache. His iconic bucket hat, followed by an iconic snarling voice are the cherries on top.
+
+Following two Grammy-nominated albums (yes, I know that it’s essentially a popularity contest…but they were legit good) and a dizzying array of top-notch guest appearances…the world was feverishly waiting for his next great album.
+
+It came. And went. That’s how you know you did badly. Not great, but not terrible. ScHoolboy Q sounds tired and lethargic even on supposedly high energy bangers. There are some stand out tracks though, especially those that tackle mental health, fame, and his role as a father.
+
+You know what pissed me off though? 
+
+In literally every other song he's featured this year, he sounds like his old self. I suppose some experiments pay off, and others don’t.
 
 <p align="center"> — </p>
 
