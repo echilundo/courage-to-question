@@ -105,6 +105,13 @@ When Ludwig was tasked with creating the exotic sound of The Mandalorian, the ma
 
 I am extremely excited to hear his score for Christopher “Can Do Almost Nothing Wrong Except Interstellar and Dunkirk” Nolan’s TENƎT.
 
+**Standout Tracks**
+
+* The Mandalorian
+* The Mudhorn
+* Whistling Bird
+* Spirit of the Woods
+
 <p align="center"> — </p>
 
 ![](/static/img/burial.png#center)
@@ -118,6 +125,10 @@ Yes, your eyes did just read dubstep. However, the most popular variant of the f
 Here, the tracks (for better-or-worse) fit a narrative structure that delivers ominous drones and uplifting but subdued, hymns. It is [hauntology](https://en.wikipedia.org/wiki/Hauntology) in aural form.
 
 I do recommend starting from his seminal albums first, and then delving into this cacophony of delight.
+
+**Standout Tracks**
+
+* Erm...everything?
 
 <p align="center"> — </p>
 
