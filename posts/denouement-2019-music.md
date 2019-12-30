@@ -37,8 +37,6 @@ The music doesn’t sound dated. Please give it a try!
 
 <p align="center"> — </p>
 
-
-
 ![amon](/static/img/amon.png#center)
 
 <figcaption style="text-align: center;">Dark Jovian by Amon Tobin</figcaption>
@@ -56,8 +54,6 @@ There is an intense sense of scale akin I suppose to discovering that you are in
 * Adrestea Contact (Logos Remix)
 
 <p align="center"> — </p>
-
-
 
 ![igor](/static/img/igor.png#center)
 
@@ -81,15 +77,23 @@ IGOR continues to highlight his growth both as a human being and one of the prem
 
 <p align="center"> — </p>
 
-
-
 ![ravedeath](/static/img/ravedeath.png#center)
 
 <figcaption style="text-align: center;">Ravedeath, 1972 by Tim Hecker</figcaption>
 
+This album had been sitting in my library for years. I guess this is what the streaming age has done to us: instead of appreciating things as soon as we get them (read: physically purchase it), we just file it away to never look at again. 
+
+Ravedeath, 1972 is a perfect winter album and is nigh impossible to listen to a single track as they all flow into each other. Having said that, I did list some highlights below so you can get a feel for Tim's layered, look into mortality and eternity itself.
+
+I gotta listen to all his other stuff before the winter finishes.
+
+Standout Tracks
+
+* Analog Paralysis, 1978
+* The Piano Drop
+* In the Air III
+
 <p align="center"> — </p>
-
-
 
 ![mando](/static/img/mando.png#center)
 
@@ -102,16 +106,6 @@ When Ludwig was tasked with creating the exotic sound of The Mandalorian, the ma
 I am extremely excited to hear his score for Christopher “Can Do Almost Nothing Wrong Except Interstellar and Dunkirk” Nolan’s TENƎT.
 
 <p align="center"> — </p>
-
-
-
-![korn](/static/img/korn.png#center)
-
-<figcaption style="text-align: center;">The Nothing by Korn</figcaption>
-
-<p align="center"> — </p>
-
-
 
 ![](/static/img/burial.png#center)
 
@@ -131,8 +125,6 @@ I am extremely excited to hear his score for Christopher “Can Do Almost Nothin
 <p align="center"> — </p>
 
 <h2 style="text-align: center;">I Was Disappointed By</h2>
-
-
 
 ![crashtalk](/static/img/crashtalk.png#center)
 
@@ -161,6 +153,7 @@ In literally every other song he's featured this year, he sounds like his old se
 * *Bandana by Freddie Gibbs & Madlib* - The return of the winning combination of Freddie Gibbs’ ridiculous flow and Madlib’s insane production. The man composed every song on an iPhone. Pity about the former’s anti-vaxxer position.
 * *Diaspora by Goldlink* - I'm gonna let Yoh Phillips from DJ Booth handle this one: “a one-man Afropunk lineup, molding and morphing a potpourri of soundscapes in his image”.
 * *Lifa by Heilung*- A last-minute discovery thanks to Microsoft and Ninja Theory’s fantastic Hellblade II trailer. I honestly think a Nordic shaman time-traveled to the 21st century and recorded an album once he discovered modern drums. It’s brilliant.
+* *The Nothing by Korn* - The metal band has not has the best of years since 2002’s Untouchables. Seven (!) average albums have been released since then, and only in 2019 can we truly say that Korn has not only returned to form but adapted with the times. Let's hope the next one goes the extra mile with creativity.
 * *Fever by Megan Thee Stallion* - A multi-dimensional female empowerment album. Megan sparks joy.
 * * *MF BLOOM + Flowervillain II by MF DOOM vs. Tyler The Creator* - A laid-back mash-up of two wildly different artists. It just works.
 * *II by TNGHT* - Not as good as their debut effort, but quite an earworm of an album. It definitely sounds more spacious.
