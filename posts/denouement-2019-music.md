@@ -17,6 +17,8 @@ For individual songs, please find these in my [yearly best-of list](https://blog
 
 <h2 style="text-align: center;">I Was Impressed By</h2>
 
+![krule](/static/img/krule.png#center)
+
 <figcaption style="text-align: center;">6 Feet Beneath the Moon by King Krule</figcaption>
 
 For the longest time, I had a solitary King Krule song in my library courtesy of Benji B’s excellent year-end playlists. This year, I decided to look up the artist whose name I thought came from Donkey Kong’s arch-nemesis (spoiler: it is sadly not the origin). 
@@ -35,6 +37,10 @@ The music doesn’t sound dated. Please give it a try!
 
 <p align="center"> — </p>
 
+
+
+![amon](/static/img/amon.png#center)
+
 <figcaption style="text-align: center;">Dark Jovian by Amon Tobin</figcaption>
 
 Amon Tobin has been around for the longest time, and there's a chance that you might have heard his music somewhere: an electronic club, a movie, a TV show or the acclaimed video game, Splinter Cell: Chaos Theory.
@@ -50,6 +56,10 @@ There is an intense sense of scale akin I suppose to discovering that you are in
 * Adrestea Contact (Logos Remix)
 
 <p align="center"> — </p>
+
+
+
+![igor](/static/img/igor.png#center)
 
 <figcaption style="text-align: center;">IGOR by Tyler, the Creator</figcaption>
 
@@ -71,9 +81,17 @@ IGOR continues to highlight his growth both as a human being and one of the prem
 
 <p align="center"> — </p>
 
+
+
+![ravedeath](/static/img/ravedeath.png#center)
+
 <figcaption style="text-align: center;">Ravedeath, 1972 by Tim Hecker</figcaption>
 
 <p align="center"> — </p>
+
+
+
+![mando](/static/img/mando.png#center)
 
 <figcaption style="text-align: center;">The Mandalorian Score by Ludwig van Göransson</figcaption>
 
@@ -85,9 +103,17 @@ I am extremely excited to hear his score for Christopher “Can Do Almost Nothin
 
 <p align="center"> — </p>
 
+
+
+![korn](/static/img/korn.png#center)
+
 <figcaption style="text-align: center;">The Nothing by Korn</figcaption>
 
 <p align="center"> — </p>
+
+
+
+![](/static/img/burial.png#center)
 
 <figcaption style="text-align: center;">Tunes 2011-2019 by Burial</figcaption>
 
@@ -105,6 +131,10 @@ I am extremely excited to hear his score for Christopher “Can Do Almost Nothin
 <p align="center"> — </p>
 
 <h2 style="text-align: center;">I Was Disappointed By</h2>
+
+
+
+![crashtalk](/static/img/crashtalk.png#center)
 
 <figcaption style="text-align: center;">CrasH Talk by ScHoolboy Q</figcaption>
 
