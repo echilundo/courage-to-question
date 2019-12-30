@@ -122,6 +122,8 @@ In literally every other song he's featured this year, he sounds like his old se
 
 <figcaption style="text-align: center;">RTRN II Jungle by Chase & Status</figcaption>
 
+![rtrn2jungle](/static/img/rtrn2jungle.png#center)
+
 <p align="center"> — </p>
 
 **Best of the Rest**
