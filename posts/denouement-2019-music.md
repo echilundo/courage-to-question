@@ -134,6 +134,16 @@ I do recommend starting from his seminal albums first, and then delving into thi
 
 <figcaption style="text-align: center;">Watchmen (Music from the HBO Series) by Trent Reznor & Atticus Ross</figcaption>
 
+What could possibly be better than the Watchmen TV show? Well, the soundtrack for one!
+
+Trent Reznor and Atticus Ross made a Faustian bargain and then found a loophole in the contract that allows them to live well beyond the age of 27. It is the only explanation I have for them creating consistently great music over the case of 3 decades.
+
+Remember how everyone went crazy for Daft Punk’s soundtrack for Tron: Legacy?
+
+This is just as good, if not better.
+
+**Standout Tracks**
+
 * NUN WITH A MOTHERF*&*ING GUN
 * I'LL WAIT
 * THE BRICK
