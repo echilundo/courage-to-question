@@ -20,7 +20,7 @@ This is the main post and will be updated as soon as the other entries are publi
 * [Websites](https://blog.iamedson.com/posts/denouement-2019:-websites/)
 * [Books](https://blog.iamedson.com/posts/denouement-2019:-books/)
 * [Music](https://blog.iamedson.com/posts/denouement-2019:-music/)
-* YouTube Channels
+* [YouTube Channels](https://blog.iamedson.com/posts/denouement-2019:-youtube-channels/)
 * TV Shows
 * Movies
 
