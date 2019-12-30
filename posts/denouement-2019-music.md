@@ -111,6 +111,14 @@ I am extremely excited to hear his score for Christopher “Can Do Almost Nothin
 
 <figcaption style="text-align: center;">Tunes 2011-2019 by Burial</figcaption>
 
+Technically, I cheated. This is not an album, but rather a compilation of songs that the mysterious Burial has worked on this decade. The release itself is interesting as throughout the decade, William Bevan (in a bit of foresight) decided to eschew the album format and release a steady stream of EPs and singles alone or with other dubstep stalwarts Zombie and The Bug (Kevin Martin).
+
+Yes, your eyes did just read dubstep. However, the most popular variant of the form was popularized by Skrillex and the like is actually called “bro step”. Yeah, I know, I’m one of those. But unlike hip-hop instrumental and its many variants, there is a profound difference in these two. The largest, of course, being the tempo or BPM (beats-per-minute).
+
+Here, the tracks (for better-or-worse) fit a narrative structure that delivers ominous drones and uplifting but subdued, hymns. It is [hauntology](https://en.wikipedia.org/wiki/Hauntology) in aural form.
+
+I do recommend starting from his seminal albums first, and then delving into this cacophony of delight.
+
 <p align="center"> — </p>
 
 <figcaption style="text-align: center;">Watchmen (Music from the HBO Series) by Trent Reznor & Atticus Ross</figcaption>
