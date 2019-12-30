@@ -19,10 +19,10 @@ This is the main post and will be updated as soon as the other entries are publi
 * [Games](https://blog.iamedson.com/posts/denouement-2019:-games/)
 * [Websites](https://blog.iamedson.com/posts/denouement-2019:-websites/)
 * [Books](https://blog.iamedson.com/posts/denouement-2019:-books/)
+* [Music](https://blog.iamedson.com/posts/denouement-2019:-music/)
 * YouTube Channels
 * TV Shows
 * Movies
-* Music
 
 By the way, if the text is red: it's a link.
 
