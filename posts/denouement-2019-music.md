@@ -78,3 +78,15 @@ Ludwig Göransson (named after Beethoven) is known for his outstanding work with
 When Ludwig was tasked with creating the exotic sound of The Mandalorian, the madman decided to craft an individual score for each episode. He’s managed to create an iconic theme that far surpasses anything in the Disney-released Star Wars films.
 
 I am extremely excited to hear his score for Christopher “Can Do Almost Nothing Wrong Except Interstellar and Dunkirk” Nolan’s TENƎT.
+
+<p align="center"> — </p>
+
+<figcaption style="text-align: center;">The Nothing by Korn</figcaption>
+
+<p align="center"> — </p>
+
+<figcaption style="text-align: center;">Tunes 2011-2019 by Burial</figcaption>
+
+<p align="center"> — </p>
+
+<figcaption style="text-align: center;">Watchmen (Music from the HBO Series) by Trent Reznor & Atticus Ross</figcaption>
