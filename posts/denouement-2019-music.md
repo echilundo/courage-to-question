@@ -132,6 +132,8 @@ I do recommend starting from his seminal albums first, and then delving into thi
 
 <p align="center"> — </p>
 
+![watcmen](/static/img/watchmen.png#center)
+
 <figcaption style="text-align: center;">Watchmen (Music from the HBO Series) by Trent Reznor & Atticus Ross</figcaption>
 
 What could possibly be better than the Watchmen TV show? Well, the soundtrack for one!
@@ -174,6 +176,12 @@ In literally every other song he's featured this year, he sounds like his old se
 ![rtrn2jungle](/static/img/rtrn2jungle.png#center)
 
 <figcaption style="text-align: center;">RTRN II Jungle by Chase & Status</figcaption>
+
+Chase & Status was my introduction to Drum & Bass. Though to be fair, I had heard some in the soundtracks of Rockstar Games’ Midnight Club and Grand Theft Auto series.
+
+As such, I would always get excited whenever they released a new album. I knew I could count on them for glass-shattering bass, and a variety of guest vocalists such as the menacing Pusha T, Zimbabwean Takura (who loves exaggerating his African accent), and made-for-national anthems Jacob Banks.
+
+RTRN II Jungle was too much of a departure for me. I like Jungle as a genre, but they really went in. The album sales and critical reception disagree with me though.
 
 <p align="center"> — </p>
 
