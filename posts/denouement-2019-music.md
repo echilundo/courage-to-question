@@ -71,6 +71,12 @@ IGOR continues to highlight his growth both as a human being and one of the prem
 
 <p align="center"> — </p>
 
+<figcaption style="text-align: center;">Ravedeath, 1972 by Tim Hecker</figcaption>
+
+
+
+<p align="center"> — </p>
+
 <figcaption style="text-align: center;">The Mandalorian Score by Ludwig van Göransson</figcaption>
 
 Ludwig Göransson (named after Beethoven) is known for his outstanding work with director Ryan Coogler (he of Fruitvale Station, Creed, and Black Panther Fame) and being behind the boards of the multi-talented Donald Glover / Childish Gambino. The latter is an integral part of the TV shows  Community and Atlanta as well as releasing wondrous songs such as This is America and Redbone.
@@ -90,3 +96,17 @@ I am extremely excited to hear his score for Christopher “Can Do Almost Nothin
 <p align="center"> — </p>
 
 <figcaption style="text-align: center;">Watchmen (Music from the HBO Series) by Trent Reznor & Atticus Ross</figcaption>
+
+<p align="center"> — </p>
+
+<h2 style="text-align: center;">I Was Disappointed By</h2>
+
+<figcaption style="text-align: center;">CrasH Talk by ScHoolboy Q</figcaption>
+
+<p align="center"> — </p>
+
+<figcaption style="text-align: center;">RTRN II Jungle by Chase & Status</figcaption>
+
+<p align="center"> — </p>
+
+**Best of the Rest**
