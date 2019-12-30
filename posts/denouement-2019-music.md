@@ -7,4 +7,4 @@ tags:
   - denouement
   - music
 ---
-Placeholder
+For individual songs, please find these in my [yearly best-of list](https://blog.iamedson.com/posts/denouement-2019:-interlude/) on Apple Music, Spotify and YouTube. Note that these playlists only include tracks released this calendar year.
