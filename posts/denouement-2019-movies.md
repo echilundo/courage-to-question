@@ -9,8 +9,6 @@ tags:
   - denouement
   - movies
 ---
-
-
 \--
 
 You’ll be able to tell that I do a terrible job of selling movies, but I hope you trust me when I say that these are good, if not great.
@@ -19,23 +17,15 @@ You’ll be able to tell that I do a terrible job of selling movies, but I hope 
 
 <h2 style="text-align: center;">I Was Impressed By</h2>
 
-![krule](/static/img/krule.png#center)
+![krule](/static/img/usafactory.png#center)
 
-<figcaption style="text-align: center;">6 Feet Beneath the Moon by King Krule</figcaption>
+<figcaption style="text-align: center;">American Factory</figcaption>
 
 For the longest time, I had a solitary King Krule song in my library courtesy of Benji B’s excellent year-end playlists. This year, I decided to look up the artist whose name I thought came from Donkey Kong’s arch-nemesis (spoiler: it is sadly not the origin). 
 
 6 Feet Beneath the Moon sounds ethereal at times, and this is partly due to the haunting and magical instruments that dovetail with Archy Marshall’s unique vocal cords. The album is simultaneously intimate, solitary but accessible. You could argue that his second album, The Ooz, is objectively better (and the sound refined), but this is extremely impressive for a 19-year old.
 
 The music doesn’t sound dated. Please give it a try!
-
-**Standout Tracks:**
-
-* Easy, Easy
-* Border Line
-* Ocean Bed
-* Neptune Estate
-* The Krockadile
 
 <p align="center"> — </p>
 
