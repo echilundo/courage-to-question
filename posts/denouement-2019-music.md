@@ -124,7 +124,7 @@ Yes, your eyes did just read dubstep. However, the most popular variant of the f
 
 Here, the tracks (for better-or-worse) fit a narrative structure that delivers ominous drones and uplifting but subdued, hymns. It is [hauntology](https://en.wikipedia.org/wiki/Hauntology) in aural form.
 
-I do recommend starting from his seminal albums first, and then delving into this cacophony of delight.
+I do recommend starting from his seminal albums first, and then delving into this cacophony of delight. The folks at the Passion of the Weiss did an [excellent write-up](https://www.passionweiss.com/2019/12/19/burial-2011-to-2019-review/) about the compilation.
 
 **Standout Tracks**
 
@@ -200,6 +200,8 @@ RTRN II Jungle was too much of a departure for me. I like Jungle as a genre, but
 * *Fever by Megan Thee Stallion* - A multi-dimensional female empowerment album. Megan sparks joy.
 
 * *MF BLOOM + Flowervillain II by MF DOOM vs. Tyler The Creator* - A laid-back mash-up of two wildly different artists. It just works.
+
+* *Purple Mountains by Purple Mountains* - David Berman tragically committed suicide after releasing this critically acclaimed album. The content certainly speaks to me and my experience throughout almost the entirety of 2019.
 
 * *The Return* by *Sampa the Great* - Ninja Tune is one of those music labels that nurtures a dizzying array of talent across different genres. While mainly known for their electronic work, they have done a terrific job in supporting Zambian-Australian singer-songwriter and rapper. One for the future.
 
