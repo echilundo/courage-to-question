@@ -17,7 +17,7 @@ This curated always includes music from all four corners of the planet and cover
 
 Please find it on your favored platform below:
 
-**Apple Music (318 songs)**
+**Apple Music (360 songs)**
 
 <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/best-of-2019/pl.u-NpXYgjGTmKaEaV"></iframe>
 
