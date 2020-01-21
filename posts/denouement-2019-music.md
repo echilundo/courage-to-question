@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: 'Denouement 2019: Music'
 date: 2019-12-30T10:35:00.000Z
 summary: >-
