@@ -21,9 +21,7 @@ This is the main post and will be updated as soon as the other entries are publi
 * [Books](https://blog.iamedson.com/posts/denouement-2019:-books/)
 * [Music](https://blog.iamedson.com/posts/denouement-2019:-music/)
 * [YouTube Channels](https://blog.iamedson.com/posts/denouement-2019:-youtube-channels/)
-* TV Shows
-* Movies
+* [Movies](https://blog.iamedson.com/posts/denouement-2019:-movies/)
+* [TV Shows](https://blog.iamedson.com/posts/denouement-2019:-tv/)
 
-By the way, if the text is red: it's a link.
-
-These posts are likely to be lengthy and meant to be consumed with a good cup of tea or coffee.
+These posts are likely to be a bit lengthy and meant to be consumed with a good cup of tea or coffee.
