@@ -1,7 +1,7 @@
 ---
-draft: false
+draft: true
 title: 'Denouement 2019: TV Shows'
-date: 2020-01-21T12:00:00.000Z
+date: 2020-01-22T12:00:00.000Z
 summary: >-
   The TV Shows that impressed and disappointed me in 2019 | Reading time: XX minutes, XX seconds.
   
@@ -37,13 +37,10 @@ Peak TV. Urban Dictionary definition: The time period (roughly 2014 to 2018) dur
 
 <figcaption style="text-align: center;">Homecoming</figcaption>
 
-The trailer got me when John David Washington (son of Denzel Washington) said, “With the right white man, you can do anything.” I chuckled, but it is, unfortunately, a harsh reality. Finding humor in despair, yadda-yadda.
+My first experience with Julia Roberts was a 7-year old going to watch My Best Friends Wedding with family friends in Zimbabwe. Her smile lit up the screen every time she was on, and little did I know that I was watching an actress who is a master of her craft. Years later, she and Sam Esmail (creator of another favorite show of mine - Mr. Robot) joined forces to create a terrific 10 episodes of television based on the Homecoming podcast.
 
-It seems to be a dramedy about police in the 1970s, but then it dawns on you that there are people around who hold these antiquated (read: racist) views TODAY.
+Man...Mrs. Roberts aged well.
 
-If anything, it reminded me that America, more than any other place has learned to flexibly ignore the legacy of the pain of black people and other minorities unless it is convenient for someone. The wounds might have healed, but the scars have remained in the form of direct racism and institutional racism.
-
-Erm…go watch it? Okay?
 
 <p align="center"> — </p>
 
