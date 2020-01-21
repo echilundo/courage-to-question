@@ -3,8 +3,8 @@ draft: false
 title: 'Denouement 2019: Movies'
 date: 2020-01-21T12:00:00.000Z
 summary: >-
-  The movies that impressed and disappointed me in 2019 | Reading time: 7
-  minutes, 36 seconds.
+  The movies that impressed and disappointed me in 2019 | Reading time: 9 minutes, 14 seconds.
+  
 tags:
   - denouement
   - movies
