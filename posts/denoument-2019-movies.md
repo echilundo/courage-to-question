@@ -212,7 +212,7 @@ Oh, there’s also this:
 * I think they wrote some parts of the movie around the Carrie Fisher’s scenes from TFA.
 * Rogue One is still the best of the new movies.
 
-Please watch MauLer's take down of the movie [here](https://www.youtube.com/watch?v=0528-TlRODI&feature=emb_logo)
+Please watch MauLer's take down of the movie [here](https://www.youtube.com/watch?v=0528-TlRODI&feature=emb_logo).
 
 <p align="center"> — </p>
 
